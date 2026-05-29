@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login | {{ app_title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+  </head>
+  <body class="login-body">
+    <main class="login-shell">
+      <section class="login-visual" aria-label="Arabica quality model">
+        <div class="login-orbit">
+          <span>Aroma</span>
+          <span>Flavor</span>
+          <span>Balance</span>
+          <span>Clean Cup</span>
+        </div>
+        <div class="login-brand">
+          <p>Arabica Quality</p>
+          <h1>SVM & Random Forest Dashboard</h1>
+        </div>
+      </section>
+
+      <section class="login-panel" aria-label="Login form">
+        <div class="panel-kicker">Secure Access</div>
+        <h2>Masuk ke Dashboard</h2>
+        <p class="muted">Gunakan akun riset yang sudah ditentukan untuk melihat hasil model dan menjalankan prediksi mutu kopi.</p>
+
+        {% if error %}
+          <div class="alert">{{ error }}</div>
+        {% endif %}
+
+        <form method="post" class="login-form">
+          <label>
+            Username
+            <input name="username" autocomplete="username" placeholder="Risyad" required>
+          </label>
+          <label>
+            Password
+            <input name="password" type="password" autocomplete="current-password" placeholder="Masukkan password" required>
+          </label>
+          <button class="primary-button" type="submit">
+            <i data-lucide="log-in"></i>
+            Login
+          </button>
+        </form>
+      </section>
+    </main>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script>window.lucide && lucide.createIcons();</script>
+  </body>
+</html>

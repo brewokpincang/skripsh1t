@@ -1,0 +1,41 @@
+{
+  "dataset_path": "DATASET/Coffee-modified.csv",
+  "target_column": "Total.Cup.Points",
+  "test_size": 0.2,
+  "random_state": 42,
+  "cv_folds": 5,
+  "quality_bins": [0, 80, 85, 101],
+  "quality_labels": [
+    "Below Specialty",
+    "Very Good",
+    "Excellent"
+  ],
+  "numeric_features": [
+    "Aroma",
+    "Flavor",
+    "Aftertaste",
+    "Acidity",
+    "Body",
+    "Balance",
+    "Uniformity",
+    "Clean.Cup",
+    "Sweetness",
+    "Cupper.Points",
+    "Moisture",
+    "Category.One.Defects",
+    "Quakers",
+    "Category.Two.Defects",
+    "Number.of.Bags",
+    "altitude_low_meters",
+    "altitude_high_meters",
+    "altitude_mean_meters"
+  ],
+  "categorical_features": [
+    "Country.of.Origin",
+    "Variety",
+    "Processing.Method",
+    "Color",
+    "unit_of_measurement"
+  ],
+  "output_dir": "artifacts"
+}

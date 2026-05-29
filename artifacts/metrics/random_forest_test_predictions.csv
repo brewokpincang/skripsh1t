@@ -1,0 +1,263 @@
+Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Cupper.Points,Moisture,Category.One.Defects,Quakers,Category.Two.Defects,Number.of.Bags,altitude_low_meters,altitude_high_meters,altitude_mean_meters,Country.of.Origin,Variety,Processing.Method,Color,unit_of_measurement,actual_quality,predicted_quality,model,probability_Below Specialty,probability_Excellent,probability_Very Good
+7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,10.0,7.42,0.1,0.0,1.0,2.0,50.0,1700.0,1700.0,1700.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.034855,0.004723,0.960422
+7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,10.0,7.25,0.11,0.0,0.0,1.0,300.0,,,,Ethiopia,Unknown,Natural / Dry,Unknown,m,Very Good,Very Good,random_forest,0.121264,0.054387,0.824349
+7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,10.0,7.5,0.0,0.0,1.0,4.0,275.0,1799.0,1799.0,1799.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.011711,0.005855,0.982434
+7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,10.0,7.42,0.11,0.0,0.0,1.0,250.0,,,,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.06935,0.001886,0.928764
+7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,7.42,0.12,0.0,0.0,3.0,100.0,1400.0,1900.0,1650.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.015943,0.014671,0.969386
+7.33,7.08,6.92,7.42,7.25,7.08,10.0,10.0,10.0,7.08,0.11,0.0,0.0,2.0,20.0,1250.0,1250.0,1250.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Below Specialty,random_forest,0.770322,0.001086,0.228592
+7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,10.0,7.92,0.0,0.0,0.0,2.0,1.0,1100.0,1100.0,1100.0,China,Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.015588,0.250595,0.733817
+8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,10.0,8.5,0.0,0.0,0.0,0.0,10.0,1872.0,1872.0,1872.0,United States,Other,Washed / Wet,Unknown,m,Excellent,Excellent,random_forest,0.0,0.975134,0.024866
+7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,250.0,442.0,442.0,442.0,Colombia,Caturra,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.01485,0.007541,0.977609
+7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.58,0.1,0.0,0.0,0.0,3.0,1600.0,1600.0,1600.0,China,Catimor,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.013814,0.008613,0.977573
+7.92,7.5,7.5,7.58,7.67,7.5,10.0,10.0,10.0,7.5,0.11,0.0,1.0,0.0,200.0,,,,Peru,Unknown,Unknown,Green,m,Very Good,Very Good,random_forest,0.034845,0.014437,0.950718
+7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,10.0,8.0,0.11,0.0,0.0,4.0,240.0,185.0,185.0,185.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.19391,0.064794,0.741295
+7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,11.0,1296.0,1296.0,1296.0,Mexico,Typica,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.013392,0.001086,0.985522
+7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,7.58,0.13,0.0,0.0,4.0,39.0,1600.0,1600.0,1600.0,"Tanzania, United Republic Of",Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.008534,0.004914,0.986552
+7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,10.0,7.42,0.11,0.0,0.0,0.0,275.0,1200.0,1400.0,1300.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.086508,0.001764,0.911728
+7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,10.0,7.17,0.11,0.0,0.0,2.0,250.0,,,,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.265864,0.001886,0.73225
+7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,10.0,7.58,0.16,3.0,0.0,8.0,10.0,533.0,533.0,533.0,Mexico,Bourbon,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.128665,0.001406,0.869929
+7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,7.58,0.13,0.0,0.0,0.0,60.0,1300.0,1300.0,1300.0,Laos,Catimor,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.028681,0.0,0.971319
+7.42,7.33,7.33,7.58,7.58,7.42,8.67,10.0,10.0,7.17,0.11,1.0,0.0,0.0,10.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Very Good,Very Good,random_forest,0.417805,0.007273,0.574921
+8.08,8.17,7.75,8.08,7.75,7.83,10.0,10.0,10.0,8.42,0.12,0.0,0.0,0.0,10.0,1000.0,1000.0,1000.0,Taiwan,Bourbon,Semi-washed / Semi-pulped,Green,m,Excellent,Excellent,random_forest,0.002243,0.61081,0.386948
+7.33,7.58,7.58,7.92,7.67,7.58,10.0,10.0,10.0,7.42,0.12,0.0,0.0,0.0,6.0,,,,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.045533,0.029473,0.924994
+7.25,7.25,7.08,7.25,7.25,7.25,10.0,10.0,10.0,7.0,0.11,0.0,0.0,0.0,10.0,600.0,600.0,600.0,Taiwan,Yellow Bourbon,Other,Green,m,Very Good,Very Good,random_forest,0.233731,0.001919,0.764349
+7.5,7.0,7.0,6.92,7.33,7.17,10.0,10.0,10.0,7.0,0.11,1.0,0.0,3.0,12.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Below Specialty,Below Specialty,random_forest,0.678713,0.004906,0.316381
+8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,10.0,8.17,0.0,0.0,0.0,0.0,10.0,2112.0,2112.0,2112.0,United States,Other,Washed / Wet,Unknown,m,Excellent,Excellent,random_forest,0.002191,0.976061,0.021748
+6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,10.0,6.83,0.13,0.0,0.0,1.0,2.0,1300.0,1300.0,1300.0,Indonesia,Java,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,random_forest,0.903509,0.013579,0.082912
+7.5,7.5,7.42,7.25,7.5,7.5,10.0,10.0,10.0,7.25,0.11,0.0,0.0,0.0,35.0,1000.0,1000.0,1000.0,Taiwan,Typica,Other,Green,m,Very Good,Very Good,random_forest,0.016057,0.0,0.983943
+7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,10.0,7.17,0.17,0.0,0.0,14.0,1.0,1700.0,1700.0,1700.0,China,Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.33482,0.009481,0.655699
+7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,0.0,7.0,0.0,9.0,275.0,900.0,1500.0,1200.0,Peru,Caturra,Washed / Wet,Green,m,Below Specialty,Very Good,random_forest,0.373852,0.036876,0.589271
+8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,10.0,8.0,0.1,0.0,0.0,1.0,275.0,1417.32,1417.32,1417.32,Guatemala,Catuai,Washed / Wet,Bluish-Green,ft,Excellent,Excellent,random_forest,0.009568,0.693873,0.296559
+7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,10.0,7.17,0.11,0.0,0.0,3.0,250.0,,,,Guatemala,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.100744,0.011971,0.887285
+7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,7.42,0.0,0.0,7.0,0.0,20.0,,,,India,Unknown,Natural / Dry,Green,m,Below Specialty,Very Good,random_forest,0.418064,0.006398,0.575538
+7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,10.0,7.67,0.09,0.0,0.0,0.0,1.0,800.0,800.0,800.0,Ecuador,Unknown,Natural / Dry,Bluish-Green,m,Very Good,Very Good,random_forest,0.03914,0.03301,0.92785
+6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,6.0,6.42,0.14,8.0,0.0,16.0,1.0,350.0,350.0,350.0,Haiti,Typica,Natural / Dry,Blue-Green,m,Below Specialty,Below Specialty,random_forest,0.829192,0.000297,0.170511
+7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,10.0,7.67,0.12,0.0,0.0,0.0,275.0,165.0,165.0,165.0,Colombia,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.020241,0.005913,0.973846
+7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,10.0,7.42,0.12,0.0,0.0,10.0,15.0,1250.0,1250.0,1250.0,Mexico,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,random_forest,0.054739,0.002228,0.943033
+8.42,8.5,8.42,8.42,8.33,8.42,10.0,10.0,10.0,9.25,0.0,0.0,0.0,0.0,5.0,1600.0,1800.0,1700.0,Guatemala,Bourbon,Unknown,Unknown,m,Excellent,Excellent,random_forest,0.003857,0.898902,0.097241
+7.83,7.58,7.58,7.58,7.75,7.58,10.0,10.0,10.0,7.58,0.0,0.0,0.0,0.0,10.0,1600.0,1600.0,1600.0,Indonesia,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.024005,0.022127,0.953869
+8.0,7.83,7.83,7.42,7.25,7.25,10.0,10.0,10.0,7.08,0.08,0.0,0.0,0.0,10.0,1200.0,1200.0,1200.0,Taiwan,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.055033,0.028196,0.916771
+8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,7.92,0.12,0.0,0.0,1.0,7.0,1700.0,1700.0,1700.0,Papua New Guinea,Unknown,Washed / Wet,Bluish-Green,m,Excellent,Excellent,random_forest,0.031297,0.659029,0.309674
+7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,10.0,7.58,0.11,0.0,3.0,5.0,320.0,894.0,894.0,894.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.015087,0.00265,0.982264
+7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7.0,0.11,0.0,0.0,8.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Below Specialty,Below Specialty,random_forest,0.9015,0.0,0.0985
+7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,10.0,7.42,0.11,0.0,0.0,2.0,250.0,1400.0,1400.0,1400.0,Mexico,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.07447,0.002668,0.922863
+7.92,7.67,7.5,7.83,7.58,7.67,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,275.0,,,,Colombia,Unknown,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.044916,0.024478,0.930606
+7.42,7.75,7.75,8.0,8.0,7.92,10.0,10.0,10.0,7.83,0.2,0.0,0.0,3.0,300.0,1500.0,2000.0,1750.0,Ethiopia,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.014597,0.360627,0.624776
+7.58,7.42,7.75,7.92,7.75,7.92,10.0,10.0,10.0,7.67,0.12,0.0,0.0,0.0,250.0,1450.0,1450.0,1450.0,Colombia,Caturra,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.007424,0.153102,0.839474
+7.58,7.83,7.75,7.67,7.67,8.0,10.0,10.0,10.0,7.67,0.11,0.0,0.0,3.0,1.0,894.0,1183.0,1038.5,Brazil,Mundo Novo,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.011432,0.058307,0.930262
+7.08,7.5,7.5,7.83,7.75,7.67,10.0,10.0,10.0,7.58,0.11,0.0,0.0,16.0,300.0,11000.0,11000.0,11000.0,Brazil,Moka Peaberry,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,random_forest,0.049446,0.061755,0.888798
+7.83,7.75,7.58,7.83,7.92,7.58,9.33,10.0,10.0,7.5,0.12,0.0,0.0,5.0,280.0,,,,Peru,Unknown,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.117366,0.038955,0.843679
+7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,10.0,7.75,0.12,0.0,0.0,2.0,1.0,1450.0,1700.0,1575.0,Costa Rica,Bourbon,Semi-washed / Semi-pulped,Bluish-Green,m,Very Good,Very Good,random_forest,0.010549,0.209035,0.780417
+7.58,7.5,7.75,7.58,7.75,7.67,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,275.0,1330.0,1330.0,1330.0,El Salvador,Bourbon,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.011775,0.022812,0.965413
+7.92,7.67,7.33,7.08,7.08,7.08,10.0,10.0,10.0,6.75,0.09,0.0,0.0,0.0,10.0,550.0,550.0,550.0,Taiwan,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.253914,0.001339,0.744747
+7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,10.0,6.67,0.13,0.0,0.0,3.0,23.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.956818,0.0,0.043182
+8.33,8.17,7.75,8.0,7.75,7.83,10.0,10.0,10.0,8.17,0.0,0.0,0.0,0.0,1.0,426.72,426.72,426.72,United States (Hawaii),Unknown,Unknown,Unknown,ft,Excellent,Excellent,random_forest,0.010056,0.750913,0.239031
+7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,10.0,7.92,0.0,0.0,0.0,1.0,250.0,1800.0,2000.0,1900.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.003778,0.064508,0.931713
+7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,10.0,7.42,0.11,0.0,0.0,3.0,275.0,1300.0,1800.0,1550.0,Guatemala,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.015303,0.023346,0.961351
+6.5,6.67,6.42,7.17,7.33,6.5,8.0,6.0,10.0,6.42,0.11,0.0,0.0,0.0,25.0,1800.0,1800.0,1800.0,Mexico,Bourbon,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.762701,0.004665,0.232634
+7.75,8.08,8.0,8.25,8.0,8.0,10.0,10.0,10.0,7.92,0.01,0.0,0.0,4.0,300.0,1500.0,2000.0,1750.0,Ethiopia,Unknown,Unknown,Unknown,m,Excellent,Excellent,random_forest,0.001139,0.87227,0.126591
+7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,10.0,7.58,0.0,0.0,0.0,0.0,305.0,900.0,1100.0,1000.0,Brazil,Catuai,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.008427,0.00226,0.989313
+7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,0.1,0.0,4.0,1.0,25.0,190164.0,190164.0,190164.0,Guatemala,Bourbon,Washed / Wet,Green,m,Below Specialty,Very Good,random_forest,0.442648,0.014483,0.54287
+7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,10.0,7.58,0.1,1.0,0.0,18.0,320.0,1600.0,1600.0,1600.0,Ethiopia,Unknown,Natural / Dry,Unknown,m,Very Good,Very Good,random_forest,0.032814,0.085592,0.881594
+7.42,7.0,7.0,7.17,7.08,7.0,9.33,8.67,10.0,7.17,0.1,0.0,0.0,0.0,275.0,1000.0,1000.0,1000.0,Nicaragua,Unknown,Unknown,Bluish-Green,m,Below Specialty,Below Specialty,random_forest,0.81751,0.001404,0.181085
+7.25,7.58,7.58,7.25,7.5,7.42,10.0,10.0,10.0,7.5,0.11,0.0,0.0,0.0,4.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,random_forest,0.114217,0.010008,0.875775
+7.58,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,7.92,0.11,0.0,0.0,5.0,320.0,890.0,890.0,890.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.01585,0.008689,0.975461
+7.83,7.5,7.42,7.5,7.83,8.5,10.0,10.0,10.0,7.5,0.0,1.0,3.0,3.0,275.0,442.0,442.0,442.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.03996,0.046705,0.913335
+7.5,7.92,7.42,7.67,7.83,7.58,10.0,10.0,10.0,7.5,0.01,0.0,0.0,0.0,12.0,,,,United States (Hawaii),Unknown,Unknown,Unknown,ft,Very Good,Very Good,random_forest,0.04203,0.085082,0.872889
+8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,10.0,7.75,0.12,0.0,0.0,2.0,37.0,1300.0,1300.0,1300.0,Brazil,Bourbon,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,random_forest,0.008956,0.214454,0.77659
+7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,10.0,7.83,0.12,0.0,0.0,0.0,15.0,1400.0,1400.0,1400.0,Mexico,Pacamara,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.019654,0.060649,0.919697
+7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,10.0,7.42,0.12,0.0,0.0,2.0,1.0,1040.0,1040.0,1040.0,Vietnam,Other,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.125158,0.026631,0.848211
+7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,10.0,8.25,0.11,1.0,0.0,1.0,120.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.018135,0.059699,0.922166
+7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.17,0.11,0.0,0.0,4.0,275.0,1676.4,1828.8,1752.6,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.063934,0.005633,0.930433
+7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,10.0,7.08,0.11,0.0,0.0,4.0,15.0,1400.0,1400.0,1400.0,Mexico,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.176161,0.002528,0.821311
+8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,10.0,7.92,0.1,0.0,0.0,2.0,250.0,1300.0,1300.0,1300.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Excellent,Very Good,random_forest,0.028884,0.254898,0.716218
+7.83,8.25,8.08,8.17,8.17,8.17,10.0,10.0,10.0,8.25,0.05,0.0,0.0,2.0,150.0,,,,Ethiopia,Unknown,Unknown,Unknown,m,Excellent,Excellent,random_forest,0.0,0.968956,0.031044
+7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,10.0,6.83,0.11,0.0,0.0,6.0,275.0,1300.0,1800.0,1550.0,Guatemala,Catuai,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.704776,0.001025,0.294199
+7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,10.0,7.25,0.12,0.0,0.0,1.0,250.0,13.0,13.0,13.0,Costa Rica,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.061894,0.012036,0.92607
+7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,10.0,7.5,0.11,0.0,0.0,2.0,250.0,1380.0,1380.0,1380.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.030086,0.00713,0.962784
+7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,8.0,0.12,0.0,0.0,3.0,150.0,1524.0,1524.0,1524.0,Guatemala,Bourbon,Washed / Wet,Green,ft,Excellent,Excellent,random_forest,0.003282,0.739418,0.2573
+7.33,7.67,7.25,7.5,7.5,7.25,10.0,10.0,10.0,7.33,0.02,0.0,0.0,2.0,58.0,900.0,950.0,925.0,Brazil,Mundo Novo,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.040009,0.015814,0.944178
+7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,10.0,7.25,0.13,0.0,0.0,23.0,100.0,1250.0,1250.0,1250.0,Mexico,Mundo Novo,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.13266,0.0,0.86734
+7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,10.0,7.58,0.12,4.0,0.0,11.0,48.0,1100.0,1100.0,1100.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.030212,0.025284,0.944504
+7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,10.0,7.33,0.11,0.0,0.0,2.0,250.0,1500.0,1500.0,1500.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.034282,0.006182,0.959535
+7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,10.0,7.5,0.12,0.0,0.0,0.0,121.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.008081,0.004624,0.987295
+7.25,7.17,7.17,7.25,7.5,7.33,10.0,10.0,10.0,7.33,0.12,0.0,0.0,0.0,10.0,758.0,758.0,758.0,Taiwan,Typica,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.208764,0.0,0.791236
+7.5,7.75,7.58,7.5,7.58,7.5,10.0,10.0,10.0,8.5,0.0,0.0,0.0,3.0,320.0,890.0,890.0,890.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.032944,0.04535,0.921706
+7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.014991,0.020497,0.964512
+7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,10.0,7.25,0.12,0.0,0.0,12.0,300.0,990.0,1000.0,995.0,Malawi,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.15952,0.003549,0.836931
+7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,10.0,7.92,0.11,0.0,0.0,3.0,50.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Excellent,random_forest,0.00325,0.547563,0.449188
+7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,10.0,7.5,0.1,6.0,1.0,3.0,100.0,1850.0,1850.0,1850.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.034225,0.01003,0.955745
+7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,10.0,6.92,0.13,0.0,0.0,6.0,3.0,,,,United States (Hawaii),Arusha,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,random_forest,0.288025,0.006377,0.705598
+7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,0.1,0.0,0.0,0.0,1.0,,,,Colombia,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.285806,0.100514,0.61368
+6.83,6.75,7.17,7.25,7.0,6.92,10.0,10.0,10.0,6.67,0.1,0.0,0.0,0.0,50.0,800.0,800.0,800.0,Taiwan,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.700625,0.0,0.299375
+7.67,7.5,7.5,7.17,7.17,7.58,10.0,10.0,10.0,7.58,0.0,0.0,0.0,0.0,80.0,800.0,800.0,800.0,Taiwan,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.061004,0.002066,0.93693
+7.42,7.08,7.17,7.17,7.58,7.25,10.0,10.0,10.0,7.25,0.1,2.0,0.0,5.0,7.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,random_forest,0.370878,0.015952,0.613169
+7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,10.0,7.58,0.11,0.0,0.0,1.0,275.0,1750.0,1750.0,1750.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.031593,0.009781,0.958626
+7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,10.0,7.17,0.0,0.0,0.0,3.0,2.0,800.0,800.0,800.0,Thailand,Unknown,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.196995,0.001229,0.801775
+7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,10.0,7.67,0.1,0.0,0.0,1.0,25.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.036333,0.001313,0.962354
+7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,10.0,7.17,0.13,0.0,0.0,2.0,54.0,1456.0,1456.0,1456.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.083451,0.001536,0.915013
+7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,10.0,7.58,0.11,0.0,2.0,2.0,320.0,905.0,905.0,905.0,Brazil,Yellow Bourbon,Pulped natural / honey,Bluish-Green,m,Very Good,Very Good,random_forest,0.012343,0.00893,0.978726
+7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,10.0,7.67,0.11,0.0,0.0,3.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.04014,0.002936,0.956924
+7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,10.0,7.25,0.12,0.0,0.0,4.0,70.0,1000.0,1000.0,1000.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.168069,0.0,0.831931
+8.67,8.67,8.58,8.42,8.33,8.42,9.33,10.0,9.33,8.67,0.03,0.0,0.0,0.0,300.0,1570.0,1700.0,1635.0,Ethiopia,Unknown,Unknown,Unknown,m,Excellent,Excellent,random_forest,0.00329,0.923172,0.073538
+7.42,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,7.5,0.11,0.0,0.0,0.0,300.0,1500.0,1500.0,1500.0,Thailand,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.008323,0.0,0.991677
+7.0,6.58,6.67,6.83,7.08,6.83,10.0,6.67,10.0,6.67,0.14,3.0,0.0,11.0,20.0,1140.0,1140.0,1140.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.984135,0.0,0.015865
+7.83,8.0,7.83,7.75,7.67,7.83,10.0,10.0,10.0,8.08,0.09,0.0,0.0,3.0,1.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Excellent,Very Good,random_forest,0.013616,0.428987,0.557397
+7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,10.0,7.67,0.11,0.0,0.0,0.0,3.0,1200.0,1200.0,1200.0,China,Catimor,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.003073,0.010399,0.986528
+7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,10.0,7.67,0.11,0.0,0.0,1.0,320.0,1500.0,1700.0,1600.0,Uganda,Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.021956,0.088517,0.889527
+7.42,7.08,6.75,7.33,7.33,6.92,10.0,9.33,10.0,6.92,0.13,0.0,0.0,0.0,18.0,853.44,853.44,853.44,United States (Puerto Rico),Other,Washed / Wet,Green,ft,Below Specialty,Below Specialty,random_forest,0.794266,0.0,0.205734
+7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.83,0.11,0.0,0.0,1.0,200.0,1750.0,1750.0,1750.0,Uganda,SL14,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.008793,0.232396,0.758812
+7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,10.0,7.5,0.11,0.0,0.0,2.0,80.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.016047,0.002066,0.981887
+7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,10.0,7.58,0.11,1.0,0.0,3.0,275.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.011498,0.004775,0.983726
+7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,10.0,7.08,0.15,0.0,0.0,0.0,13.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Below Specialty,random_forest,0.682207,0.000392,0.3174
+7.67,7.42,7.67,7.33,7.25,7.58,10.0,10.0,10.0,7.17,0.08,1.0,0.0,5.0,275.0,1600.0,1600.0,1600.0,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.083103,0.00833,0.908568
+7.5,7.5,7.33,7.58,7.67,7.33,10.0,10.0,10.0,7.33,0.11,0.0,0.0,2.0,275.0,1390.8024,1390.8024,1390.8024,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.021365,0.002259,0.976376
+7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,10.0,7.0,0.12,0.0,0.0,8.0,250.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.880788,0.0,0.119212
+7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,10.0,7.33,0.1,1.0,0.0,3.0,275.0,700.0,1400.0,1050.0,Nicaragua,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.283034,0.00099,0.715976
+7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10.0,6.75,0.13,23.0,0.0,29.0,18.0,1280.0,1280.0,1280.0,Mexico,Typica,Washed / Wet,Bluish-Green,m,Below Specialty,Below Specialty,random_forest,0.949339,0.000297,0.050364
+7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,10.0,7.08,0.12,0.0,0.0,4.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.158892,0.0,0.841108
+7.17,7.42,7.5,8.0,7.25,7.83,10.0,10.0,6.67,7.33,0.1,5.0,0.0,20.0,1.0,,,,Costa Rica,Catuai,Washed / Wet,Unknown,m,Below Specialty,Very Good,random_forest,0.201797,0.076553,0.72165
+7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.25,0.11,0.0,0.0,6.0,20.0,1000.0,1000.0,1000.0,Mexico,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,random_forest,0.053146,0.0,0.946854
+7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,10.0,7.5,0.12,0.0,0.0,7.0,10.0,1700.0,1700.0,1700.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.035352,0.001804,0.962844
+7.67,7.83,7.75,7.75,7.92,7.83,10.0,10.0,10.0,7.92,0.0,0.0,0.0,3.0,1.0,,,,Peru,Unknown,Unknown,Unknown,m,Very Good,Excellent,random_forest,0.016293,0.62263,0.361078
+7.25,7.08,7.25,7.25,7.17,7.25,10.0,10.0,10.0,7.0,0.11,0.0,0.0,0.0,5.0,700.0,700.0,700.0,Taiwan,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,random_forest,0.282546,0.0,0.717454
+8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,10.0,8.0,0.12,0.0,0.0,3.0,31.0,1100.0,1100.0,1100.0,Brazil,Mundo Novo,Natural / Dry,Green,m,Excellent,Very Good,random_forest,0.004578,0.305209,0.690213
+7.75,7.58,7.25,7.75,7.67,7.58,10.0,10.0,10.0,7.08,0.0,0.0,0.0,1.0,1.0,1400.0,1400.0,1400.0,Mexico,Blue Mountain,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.094834,0.051685,0.853481
+8.08,8.17,8.0,7.92,7.92,7.83,10.0,10.0,10.0,8.33,0.0,1.0,0.0,4.0,10.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Unknown,ft,Excellent,Excellent,random_forest,0.012495,0.869395,0.11811
+7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,10.0,6.67,0.13,0.0,0.0,1.0,250.0,1400.0,1400.0,1400.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.892732,0.0,0.107268
+7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,10.0,8.0,0.0,0.0,0.0,2.0,150.0,1350.0,1350.0,1350.0,El Salvador,Bourbon,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.025737,0.294364,0.679899
+7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,10.0,7.58,0.11,0.0,0.0,5.0,250.0,1380.0,1380.0,1380.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.019519,0.006737,0.973743
+7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,10.0,7.83,0.1,0.0,0.0,4.0,250.0,1400.0,1400.0,1400.0,Mexico,Bourbon,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.013396,0.187394,0.79921
+7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,10.0,7.67,0.13,0.0,0.0,0.0,10.0,1400.0,1400.0,1400.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.010703,0.051022,0.938274
+7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,10.0,1296.0,1296.0,1296.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.014631,0.001086,0.984283
+7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,10.0,7.42,0.11,0.0,0.0,10.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.050456,0.009745,0.939799
+7.42,7.58,7.5,7.33,7.42,7.42,10.0,10.0,10.0,7.42,0.13,0.0,0.0,7.0,35.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.016456,0.001819,0.981725
+7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,10.0,7.67,0.11,0.0,7.0,6.0,100.0,1500.0,1500.0,1500.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.012353,0.02722,0.960427
+8.42,8.17,8.17,8.0,7.58,8.0,10.0,10.0,10.0,8.17,0.11,0.0,0.0,1.0,100.0,,,,"Tanzania, United Republic Of",Unknown,Natural / Dry,Bluish-Green,m,Excellent,Excellent,random_forest,0.006789,0.73477,0.258441
+7.92,7.67,7.92,7.75,7.67,7.58,10.0,10.0,10.0,8.0,0.1,0.0,0.0,2.0,275.0,1200.0,1200.0,1200.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.040597,0.162615,0.796788
+7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,10.0,7.33,0.11,0.0,0.0,1.0,250.0,1250.0,1250.0,1250.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.035255,0.002743,0.962002
+7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,10.0,7.25,0.12,0.0,0.0,1.0,10.0,1400.0,1400.0,1400.0,"Tanzania, United Republic Of",Other,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.193125,0.001536,0.805339
+7.42,7.58,7.5,7.17,7.5,8.0,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,2.0,,,,Thailand,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.032104,0.020847,0.947049
+7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,7.75,0.0,0.0,0.0,2.0,250.0,,,,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.03984,0.043073,0.917087
+7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,10.0,6.67,0.12,0.0,0.0,4.0,310.0,1400.0,1400.0,1400.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.760644,0.0,0.239356
+7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,10.0,7.17,0.12,0.0,0.0,1.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.131836,0.0,0.868164
+7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,10.0,7.17,0.11,0.0,0.0,5.0,275.0,1400.0,1400.0,1400.0,Honduras,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.415146,0.00099,0.583864
+7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,10.0,7.58,0.11,0.0,0.0,2.0,250.0,1800.0,2000.0,1900.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.008948,0.022337,0.968716
+7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,10.0,7.83,0.11,0.0,0.0,3.0,320.0,1700.0,1850.0,1775.0,Uganda,Other,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.002466,0.48766,0.509873
+8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,10.0,7.67,0.11,0.0,0.0,4.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.019744,0.098717,0.881539
+7.58,7.5,7.33,7.75,7.5,7.5,10.0,10.0,10.0,7.42,0.0,0.0,0.0,4.0,42.0,900.0,1050.0,975.0,Brazil,Mundo Novo,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.034045,0.020276,0.94568
+7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.42,0.13,0.0,0.0,0.0,24.0,1556.0,1556.0,1556.0,Malawi,Gesha,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.020898,0.005389,0.973713
+7.75,7.58,7.42,7.42,7.33,7.33,10.0,10.0,10.0,7.42,0.11,0.0,0.0,0.0,320.0,1100.0,1100.0,1100.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.010645,0.002048,0.987307
+7.42,7.42,7.25,7.67,7.33,7.25,10.0,10.0,10.0,7.25,0.1,0.0,0.0,0.0,20.0,800.0,800.0,800.0,Taiwan,Typica,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.05488,0.0,0.94512
+7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,10.0,7.67,0.13,0.0,0.0,6.0,180.0,1653.0,1653.0,1653.0,"Tanzania, United Republic Of",Other,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.01245,0.003033,0.984517
+7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,10.0,7.25,0.11,0.0,0.0,1.0,250.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.292163,0.0,0.707837
+7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.5,0.11,0.0,0.0,3.0,275.0,1350.0,1350.0,1350.0,Honduras,Caturra,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.004577,0.002549,0.992874
+7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,10.0,7.75,0.12,0.0,0.0,4.0,320.0,1650.0,1703.0,1676.5,Ethiopia,Unknown,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.01297,0.088374,0.898657
+7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,10.0,7.67,0.13,0.0,0.0,8.0,200.0,1500.0,1500.0,1500.0,Indonesia,Sumatra,Semi-washed / Semi-pulped,Bluish-Green,m,Very Good,Very Good,random_forest,0.038463,0.068935,0.892602
+7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,10.0,7.92,0.0,0.0,0.0,5.0,75.0,1600.0,1900.0,1750.0,Colombia,Caturra,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.001163,0.288115,0.710722
+7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,10.0,7.25,0.12,1.0,5.0,17.0,200.0,1100.0,1100.0,1100.0,Mexico,Mundo Novo,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.169598,0.009089,0.821313
+7.58,7.58,7.5,7.58,7.58,7.75,10.0,10.0,10.0,7.67,0.0,0.0,0.0,0.0,250.0,1483.0,1483.0,1483.0,Colombia,Caturra,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.004214,0.005399,0.990386
+7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,10.0,7.17,0.11,0.0,0.0,2.0,275.0,1100.0,1275.0,1187.5,Nicaragua,Caturra,Washed / Wet,Unknown,m,Very Good,Below Specialty,random_forest,0.642311,0.0,0.357689
+7.92,8.0,7.5,6.75,7.92,7.58,10.0,10.0,9.33,7.67,0.0,0.0,0.0,17.0,288.0,,,,El Salvador,Other,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.11928,0.1018,0.77892
+7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,10.0,7.33,0.1,0.0,0.0,4.0,250.0,1200.0,1400.0,1300.0,Costa Rica,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.044637,0.005949,0.949414
+7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,10.0,7.42,0.11,0.0,0.0,0.0,5.0,600.0,600.0,600.0,Taiwan,Typica,Other,Green,m,Very Good,Very Good,random_forest,0.031298,0.0,0.968702
+7.42,7.08,7.08,7.33,7.25,7.58,10.0,10.0,10.0,7.25,0.0,0.0,2.0,6.0,100.0,1450.0,1450.0,1450.0,El Salvador,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.261559,0.016347,0.722094
+7.33,7.58,7.42,7.5,7.5,7.5,10.0,10.0,10.0,7.5,0.11,0.0,0.0,0.0,320.0,,,,Mexico,Unknown,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.020876,0.00407,0.975054
+7.58,7.67,7.67,7.67,7.75,7.83,10.0,10.0,10.0,7.92,0.1,0.0,0.0,4.0,10.0,968.0,968.0,968.0,Taiwan,Typica,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.046426,0.039388,0.914185
+6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,10.0,6.67,0.11,2.0,0.0,6.0,275.0,1350.0,1350.0,1350.0,Honduras,Pacas,Natural / Dry,Green,m,Below Specialty,Below Specialty,random_forest,0.907296,0.0,0.092704
+8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,10.0,8.0,0.12,0.0,0.0,5.0,150.0,1950.0,1950.0,1950.0,Uganda,SL14,Washed / Wet,Green,m,Excellent,Excellent,random_forest,0.001869,0.631736,0.366395
+7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,7.75,0.11,0.0,0.0,5.0,320.0,890.0,890.0,890.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.014203,0.011318,0.974479
+7.25,7.25,7.0,7.5,7.33,7.42,8.0,9.33,10.0,7.75,0.13,31.0,0.0,47.0,100.0,1300.0,1300.0,1300.0,Mexico,Typica,Natural / Dry,Green,m,Below Specialty,Below Specialty,random_forest,0.63632,0.005414,0.358267
+7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10.0,7.33,0.0,0.0,0.0,3.0,250.0,1200.0,1200.0,1200.0,Colombia,Caturra,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.616342,0.0,0.383658
+7.08,6.83,6.83,7.25,7.42,7.08,10.0,10.0,10.0,6.75,0.11,0.0,0.0,0.0,50.0,850.0,850.0,850.0,Taiwan,Typica,Washed / Wet,Blue-Green,m,Below Specialty,Below Specialty,random_forest,0.778854,0.0,0.221146
+7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,10.0,7.5,0.0,0.0,0.0,0.0,250.0,1400.0,1850.0,1625.0,Colombia,Caturra,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.018265,0.004026,0.977709
+7.5,7.67,7.42,7.75,7.42,7.17,10.0,10.0,10.0,7.75,0.11,0.0,2.0,3.0,8.0,1300.0,1300.0,1300.0,Mexico,Unknown,Unknown,Green,m,Very Good,Very Good,random_forest,0.086662,0.004071,0.909268
+7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10.0,7.67,0.0,0.0,0.0,14.0,275.0,,,,Costa Rica,Unknown,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.288496,0.030236,0.681268
+7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.58,0.1,0.0,0.0,1.0,60.0,1200.0,1200.0,1200.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.103432,0.003224,0.893344
+7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,10.0,7.58,0.0,0.0,0.0,1.0,275.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.018058,0.027622,0.954321
+7.25,7.17,6.92,7.25,7.17,7.25,10.0,10.0,10.0,7.08,0.1,0.0,0.0,4.0,1.0,,,,Nicaragua,Unknown,Natural / Dry,Green,m,Very Good,Below Specialty,random_forest,0.559058,0.000832,0.440109
+7.58,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.67,0.08,1.0,2.0,13.0,275.0,,,,Costa Rica,Unknown,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.022877,0.046551,0.930572
+7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,10.0,7.25,0.12,0.0,0.0,1.0,275.0,1400.0,1400.0,1400.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.024509,0.001196,0.974295
+7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,8.0,6.5,0.1,0.0,0.0,3.0,275.0,1450.0,1450.0,1450.0,Honduras,Catuai,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.953555,0.0,0.046445
+7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,10.0,7.33,0.12,0.0,0.0,3.0,275.0,1450.0,1450.0,1450.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.027617,0.001196,0.971187
+7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,10.0,7.0,0.14,0.0,0.0,19.0,50.0,750.0,750.0,750.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.759773,0.0,0.240227
+7.58,7.75,7.67,7.5,7.67,7.58,10.0,10.0,10.0,7.42,0.02,0.0,0.0,2.0,90.0,900.0,900.0,900.0,Brazil,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.01646,0.011776,0.971764
+7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,7.58,0.1,0.0,0.0,2.0,250.0,1500.0,1500.0,1500.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.003217,0.001825,0.994958
+7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,10.0,7.17,0.12,0.0,0.0,5.0,250.0,1600.0,1600.0,1600.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.064364,0.003464,0.932172
+7.75,7.67,7.5,7.75,7.83,7.75,10.0,10.0,10.0,7.67,0.11,1.0,0.0,2.0,250.0,442.0,442.0,442.0,Colombia,Unknown,Unknown,Green,m,Very Good,Very Good,random_forest,0.022865,0.052586,0.924549
+8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,10.0,7.58,0.12,0.0,0.0,0.0,10.0,1200.0,1600.0,1400.0,Indonesia,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.015703,0.02339,0.960907
+7.08,6.83,6.83,7.0,7.0,6.92,10.0,10.0,10.0,6.83,0.12,0.0,0.0,14.0,10.0,1400.0,1400.0,1400.0,Mexico,Typica,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,random_forest,0.958627,0.0,0.041373
+8.25,7.83,7.25,8.33,8.17,8.08,10.0,6.67,10.0,7.75,0.07,0.0,0.0,0.0,12.0,1268.0,1268.0,1268.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.122272,0.213078,0.66465
+6.92,7.58,7.42,7.33,7.83,7.5,10.0,10.0,10.0,7.58,0.0,0.0,0.0,1.0,320.0,1.0,1.0,1.0,Brazil,Yellow Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.051028,0.009338,0.939634
+8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,275.0,1850.0,1850.0,1850.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.020212,0.050237,0.929551
+8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,10.0,7.92,0.0,0.0,0.0,7.0,250.0,1400.0,1400.0,1400.0,Guatemala,Caturra,Washed / Wet,Unknown,m,Excellent,Very Good,random_forest,0.004916,0.378502,0.616583
+8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,10.0,8.0,0.11,0.0,0.0,1.0,200.0,1800.0,1800.0,1800.0,Uganda,SL14,Washed / Wet,Green,m,Excellent,Excellent,random_forest,0.0,0.537961,0.462039
+7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,10.0,7.83,0.11,0.0,0.0,2.0,250.0,1700.0,1700.0,1700.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.010225,0.191687,0.798088
+7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,10.0,7.42,0.13,0.0,0.0,20.0,2.0,1500.0,1800.0,1650.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.027228,0.004517,0.968254
+7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,7.33,0.11,0.0,0.0,2.0,275.0,1350.0,1350.0,1350.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.005071,0.0,0.994929
+7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.75,0.0,0.0,0.0,4.0,232.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.004676,0.003432,0.991892
+7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,10.0,7.33,0.12,1.0,0.0,2.0,250.0,1200.0,1200.0,1200.0,Costa Rica,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.165512,0.006331,0.828158
+7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,10.0,7.17,0.11,0.0,0.0,1.0,250.0,1800.0,2000.0,1900.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.019306,0.015088,0.965606
+7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,10.0,7.75,0.1,0.0,1.0,2.0,3.0,1650.0,1650.0,1650.0,China,Catimor,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.026707,0.020494,0.952799
+7.75,8.0,8.0,8.33,7.67,7.92,10.0,10.0,9.33,7.75,0.15,0.0,0.0,3.0,250.0,1200.0,1200.0,1200.0,El Salvador,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.020851,0.293953,0.685195
+7.58,7.33,7.5,7.42,7.5,7.33,8.0,8.67,9.33,7.33,0.12,2.0,0.0,3.0,5.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Below Specialty,Below Specialty,random_forest,0.782354,0.002513,0.215133
+7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,10.0,7.58,0.12,0.0,0.0,0.0,93.0,1700.0,1700.0,1700.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.005574,0.0,0.994426
+7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.42,0.09,0.0,0.0,4.0,250.0,1500.0,1500.0,1500.0,Guatemala,Bourbon,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.020507,0.002587,0.976906
+8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,10.0,7.83,0.11,0.0,0.0,0.0,10.0,1200.0,1400.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.089692,0.027539,0.882769
+7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,10.0,8.08,0.12,0.0,0.0,0.0,20.0,170.0,170.0,170.0,Japan,Mundo Novo,Pulped natural / honey,Green,m,Very Good,Very Good,random_forest,0.013805,0.160497,0.825698
+7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,10.0,8.17,0.11,0.0,0.0,4.0,275.0,1450.0,1450.0,1450.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.020904,0.138696,0.8404
+7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,10.0,7.33,0.0,2.0,0.0,0.0,50.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.042452,0.008254,0.949293
+7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,10.0,7.5,0.11,0.0,0.0,8.0,275.0,1800.0,1800.0,1800.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.012448,0.006972,0.98058
+7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,10.0,7.5,0.12,0.0,0.0,0.0,1.0,800.0,800.0,800.0,Thailand,Unknown,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.059688,0.003656,0.936656
+7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,10.0,7.75,0.11,0.0,0.0,1.0,275.0,442.0,442.0,442.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.021824,0.017934,0.960242
+7.08,7.25,7.0,7.5,7.08,7.33,10.0,10.0,10.0,7.33,0.0,0.0,0.0,2.0,149.0,,,,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.234407,0.000718,0.764875
+7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,8.0,6.92,0.0,1.0,0.0,1.0,280.0,1200.0,1200.0,1200.0,Mexico,Typica,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,random_forest,0.966608,0.0,0.033392
+7.75,7.75,7.75,8.08,7.75,7.75,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,11.0,,,,Kenya,SL28,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.015852,0.176701,0.807447
+7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,10.0,7.67,0.11,0.0,2.0,7.0,275.0,2100.0,2100.0,2100.0,Guatemala,Pacas,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.01985,0.035534,0.944616
+7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,10.0,7.5,0.12,0.0,0.0,4.0,250.0,1530.0,1530.0,1530.0,Colombia,Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.027596,0.043217,0.929187
+7.67,7.33,7.33,7.58,7.33,7.33,10.0,10.0,10.0,7.33,0.09,0.0,0.0,1.0,250.0,1600.0,1600.0,1600.0,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.020146,0.001447,0.978407
+7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,7.5,0.1,1.0,0.0,1.0,2.0,1200.0,1600.0,1400.0,Mexico,Other,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.046881,0.011908,0.94121
+8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,10.0,7.67,0.13,4.0,0.0,29.0,1.0,1700.0,1700.0,1700.0,Uganda,Other,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.044775,0.101254,0.853971
+7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,10.0,7.58,0.0,0.0,0.0,5.0,50.0,1799.0,1799.0,1799.0,Colombia,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.017495,0.020542,0.961963
+8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,10.0,7.67,0.0,0.0,0.0,0.0,250.0,2560.0,2560.0,2560.0,Colombia,Caturra,Natural / Dry,Unknown,m,Excellent,Very Good,random_forest,0.023905,0.25319,0.722904
+7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,10.0,7.42,0.1,0.0,0.0,6.0,275.0,1676.4,1676.4,1676.4,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.033413,0.008513,0.958074
+7.25,7.17,7.0,6.75,7.17,7.33,10.0,10.0,10.0,6.92,0.1,0.0,0.0,4.0,250.0,1800.0,1800.0,1800.0,Colombia,Unknown,Unknown,Unknown,m,Below Specialty,Very Good,random_forest,0.348819,0.003136,0.648045
+7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,10.0,7.33,0.0,0.0,0.0,2.0,1.0,4001.0,4001.0,4001.0,Myanmar,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.035723,0.015126,0.949151
+6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,10.0,7.0,0.12,0.0,0.0,12.0,14.0,1300.0,1300.0,1300.0,Mexico,Mundo Novo,Natural / Dry,Unknown,m,Below Specialty,Below Specialty,random_forest,0.903535,0.0,0.096465
+7.67,7.67,7.17,7.33,7.58,7.67,10.0,10.0,10.0,7.67,0.0,0.0,0.0,4.0,275.0,1250.0,1250.0,1250.0,El Salvador,Bourbon,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.066101,0.018985,0.914915
+7.17,7.42,7.33,7.42,7.33,7.42,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,320.0,,,,Indonesia,Sumatra,Semi-washed / Semi-pulped,Bluish-Green,m,Very Good,Very Good,random_forest,0.043492,0.038089,0.918418
+7.33,7.67,7.58,7.33,7.58,7.92,10.0,10.0,10.0,7.58,0.08,0.0,0.0,1.0,300.0,1050.0,1850.0,1450.0,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,random_forest,0.019278,0.026973,0.95375
+7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,10.0,7.42,0.1,0.0,0.0,0.0,450.0,1371.6,1371.6,1371.6,Guatemala,Catuai,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.05892,0.01335,0.927731
+7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,10.0,7.17,0.12,0.0,0.0,0.0,10.0,1200.0,1600.0,1400.0,Indonesia,Other,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.155983,0.010301,0.833716
+7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,10.0,7.83,0.1,0.0,0.0,1.0,45.0,1350.0,1350.0,1350.0,Thailand,Catimor,Natural / Dry,Bluish-Green,m,Very Good,Very Good,random_forest,0.022393,0.084433,0.893173
+7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,10.0,7.42,0.11,0.0,0.0,3.0,15.0,1100.0,1100.0,1100.0,Mexico,Typica,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.114035,0.002631,0.883334
+7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,10.0,7.83,0.12,0.0,0.0,0.0,275.0,900.0,1100.0,1000.0,Nicaragua,Caturra,Natural / Dry,Bluish-Green,m,Very Good,Very Good,random_forest,0.016583,0.140901,0.842515
+7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,10.0,7.42,0.12,0.0,0.0,0.0,25.0,190164.0,190164.0,190164.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.033929,0.017378,0.948694
+7.75,7.58,7.5,7.58,7.75,7.75,10.0,10.0,10.0,7.83,0.11,0.0,0.0,2.0,200.0,1800.0,1800.0,1800.0,Kenya,SL28,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.008585,0.085979,0.905436
+7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,10.0,7.17,0.11,2.0,0.0,8.0,10.0,808.0,808.0,808.0,Mexico,Caturra,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.454012,0.001571,0.544417
+7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10.0,7.75,0.04,3.0,0.0,0.0,4.0,,,,United States (Hawaii),Unknown,Unknown,Unknown,ft,Very Good,Very Good,random_forest,0.393397,0.027746,0.578857
+7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,0.1,0.0,0.0,0.0,50.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Below Specialty,Below Specialty,random_forest,0.6543,0.0,0.3457
+7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,10.0,7.83,0.11,0.0,0.0,3.0,275.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.002936,0.125743,0.871321
+7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,0.11,0.0,0.0,0.0,35.0,900.0,900.0,900.0,Taiwan,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,random_forest,0.130818,0.002485,0.866697
+7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,10.0,7.33,0.11,0.0,0.0,0.0,28.0,1600.0,1600.0,1600.0,Mexico,Marigojipe,Natural / Dry,Unknown,m,Very Good,Very Good,random_forest,0.085621,0.011187,0.903192
+7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,10.0,7.42,0.12,0.0,0.0,0.0,20.0,157.8864,157.8864,157.8864,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,random_forest,0.02776,0.007536,0.964704
+7.08,6.75,6.58,7.0,7.0,6.75,8.67,8.67,10.0,6.42,0.17,0.0,0.0,6.0,14.0,1500.0,1500.0,1500.0,Mexico,Typica,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,random_forest,0.970534,0.0,0.029466
+7.67,7.58,7.42,7.58,7.58,7.42,10.0,10.0,8.67,7.67,0.11,0.0,0.0,2.0,28.0,1650.0,1650.0,1650.0,Mexico,Typica,Natural / Dry,Unknown,m,Very Good,Very Good,random_forest,0.15769,0.011142,0.831168
+7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,1.33,6.67,0.1,0.0,0.0,4.0,275.0,1417.32,1417.32,1417.32,Guatemala,Catuai,Washed / Wet,Green,ft,Below Specialty,Below Specialty,random_forest,0.843267,0.0,0.156733
+7.5,7.5,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,0.11,0.0,0.0,0.0,10.0,650.0,650.0,650.0,Taiwan,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,random_forest,0.028225,0.0,0.971775
+8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,0.0,0.0,0.0,15.0,1.0,,,,Colombia,Unknown,Natural / Dry,Bluish-Green,m,Below Specialty,Very Good,random_forest,0.484406,0.018823,0.496772
+7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,10.0,7.5,0.11,0.0,0.0,2.0,28.0,1650.0,1650.0,1650.0,Mexico,Typica,Semi-washed / Semi-pulped,Unknown,m,Very Good,Very Good,random_forest,0.058333,0.02744,0.914227
+7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,10.0,7.58,0.11,0.0,0.0,3.0,250.0,1200.0,1400.0,1300.0,Costa Rica,Catuai,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.023326,0.011571,0.965103
+7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,10.0,7.83,0.11,0.0,0.0,5.0,66.0,1754.0,1754.0,1754.0,Kenya,SL34,Washed / Wet,Blue-Green,m,Very Good,Very Good,random_forest,0.010455,0.393966,0.595579
+7.5,7.58,7.42,7.67,7.58,7.5,10.0,10.0,10.0,7.5,0.1,0.0,1.0,3.0,275.0,1100.0,1100.0,1100.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.017254,0.001287,0.981459
+7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,10.0,7.25,0.12,0.0,0.0,9.0,20.0,1250.0,1250.0,1250.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Below Specialty,random_forest,0.552442,0.001819,0.445738
+7.58,7.08,6.92,7.58,7.5,6.92,10.0,9.33,10.0,6.83,0.13,0.0,0.0,4.0,275.0,1022.0,1022.0,1022.0,Mexico,Bourbon,Washed / Wet,Green,m,Below Specialty,Below Specialty,random_forest,0.75358,0.0,0.24642
+7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,10.0,7.58,0.11,0.0,2.0,3.0,320.0,872.0,872.0,872.0,Brazil,Bourbon,Natural / Dry,Bluish-Green,m,Very Good,Very Good,random_forest,0.025707,0.002467,0.971826
+8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,10.0,7.83,0.11,0.0,0.0,1.0,250.0,1706.88,1755.648,1731.264,Guatemala,Bourbon,Washed / Wet,Green,ft,Excellent,Very Good,random_forest,0.008029,0.425212,0.566759
+7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,7.5,0.13,1.0,0.0,6.0,30.0,1500.0,1800.0,1650.0,"Tanzania, United Republic Of",Bourbon,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.018782,0.002328,0.97889
+7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,10.0,7.08,0.11,0.0,0.0,1.0,250.0,1200.0,1200.0,1200.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,random_forest,0.21969,0.0,0.78031
+7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,10.0,7.67,0.0,0.0,0.0,0.0,150.0,1650.0,1650.0,1650.0,Kenya,SL28,Washed / Wet,Bluish-Green,m,Very Good,Very Good,random_forest,0.026605,0.048606,0.924789
+7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,10.0,7.67,0.08,0.0,0.0,1.0,20.0,1750.0,1750.0,1750.0,Costa Rica,Other,Other,Green,m,Very Good,Very Good,random_forest,0.007355,0.072124,0.92052
+7.42,7.33,7.33,7.5,7.67,7.75,8.0,8.67,9.33,7.25,0.11,4.0,0.0,31.0,5.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Below Specialty,Below Specialty,random_forest,0.658812,0.009216,0.331973
+7.33,7.42,7.5,7.67,7.5,7.42,10.0,10.0,10.0,7.42,0.0,0.0,0.0,1.0,6.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,random_forest,0.094291,0.011453,0.894256
+7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,10.0,7.42,0.0,0.0,0.0,0.0,320.0,1100.0,1100.0,1100.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,random_forest,0.042307,0.0,0.957693

@@ -1,0 +1,263 @@
+Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Cupper.Points,Moisture,Category.One.Defects,Quakers,Category.Two.Defects,Number.of.Bags,altitude_low_meters,altitude_high_meters,altitude_mean_meters,Country.of.Origin,Variety,Processing.Method,Color,unit_of_measurement,actual_quality,predicted_quality,model,probability_Below Specialty,probability_Excellent,probability_Very Good
+7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,10.0,7.42,0.1,0.0,1.0,2.0,50.0,1700.0,1700.0,1700.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,10.0,7.25,0.11,0.0,0.0,1.0,300.0,,,,Ethiopia,Unknown,Natural / Dry,Unknown,m,Very Good,Very Good,svm,0.009151,0.000475,0.990374
+7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,10.0,7.5,0.0,0.0,1.0,4.0,275.0,1799.0,1799.0,1799.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,10.0,7.42,0.11,0.0,0.0,1.0,250.0,,,,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.001823,0.000146,0.998031
+7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,7.42,0.12,0.0,0.0,3.0,100.0,1400.0,1900.0,1650.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.33,7.08,6.92,7.42,7.25,7.08,10.0,10.0,10.0,7.08,0.11,0.0,0.0,2.0,20.0,1250.0,1250.0,1250.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Below Specialty,svm,0.375462,0.006057,0.618481
+7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,10.0,7.92,0.0,0.0,0.0,2.0,1.0,1100.0,1100.0,1100.0,China,Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.003785,0.101324,0.894891
+8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,10.0,8.5,0.0,0.0,0.0,0.0,10.0,1872.0,1872.0,1872.0,United States,Other,Washed / Wet,Unknown,m,Excellent,Excellent,svm,1e-06,0.999995,5e-06
+7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,250.0,442.0,442.0,442.0,Colombia,Caturra,Natural / Dry,Green,m,Very Good,Very Good,svm,1.9e-05,0.004949,0.995032
+7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.58,0.1,0.0,0.0,0.0,3.0,1600.0,1600.0,1600.0,China,Catimor,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.92,7.5,7.5,7.58,7.67,7.5,10.0,10.0,10.0,7.5,0.11,0.0,1.0,0.0,200.0,,,,Peru,Unknown,Unknown,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,10.0,8.0,0.11,0.0,0.0,4.0,240.0,185.0,185.0,185.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,0.231217,0.007129,0.761654
+7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,11.0,1296.0,1296.0,1296.0,Mexico,Typica,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,7.58,0.13,0.0,0.0,4.0,39.0,1600.0,1600.0,1600.0,"Tanzania, United Republic Of",Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,10.0,7.42,0.11,0.0,0.0,0.0,275.0,1200.0,1400.0,1300.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.003288,0.000197,0.996515
+7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,10.0,7.17,0.11,0.0,0.0,2.0,250.0,,,,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.043694,0.001322,0.954984
+7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,10.0,7.58,0.16,3.0,0.0,8.0,10.0,533.0,533.0,533.0,Mexico,Bourbon,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,7.58,0.13,0.0,0.0,0.0,60.0,1300.0,1300.0,1300.0,Laos,Catimor,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.33,7.33,7.58,7.58,7.42,8.67,10.0,10.0,7.17,0.11,1.0,0.0,0.0,10.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Very Good,Very Good,svm,0.116282,0.003454,0.880264
+8.08,8.17,7.75,8.08,7.75,7.83,10.0,10.0,10.0,8.42,0.12,0.0,0.0,0.0,10.0,1000.0,1000.0,1000.0,Taiwan,Bourbon,Semi-washed / Semi-pulped,Green,m,Excellent,Excellent,svm,0.00589,0.98438,0.009731
+7.33,7.58,7.58,7.92,7.67,7.58,10.0,10.0,10.0,7.42,0.12,0.0,0.0,0.0,6.0,,,,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.25,7.08,7.25,7.25,7.25,10.0,10.0,10.0,7.0,0.11,0.0,0.0,0.0,10.0,600.0,600.0,600.0,Taiwan,Yellow Bourbon,Other,Green,m,Very Good,Very Good,svm,0.03815,0.00082,0.96103
+7.5,7.0,7.0,6.92,7.33,7.17,10.0,10.0,10.0,7.0,0.11,1.0,0.0,3.0,12.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Below Specialty,Below Specialty,svm,0.639329,0.00807,0.352601
+8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,10.0,8.17,0.0,0.0,0.0,0.0,10.0,2112.0,2112.0,2112.0,United States,Other,Washed / Wet,Unknown,m,Excellent,Excellent,svm,0.001262,0.998545,0.000192
+6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,10.0,6.83,0.13,0.0,0.0,1.0,2.0,1300.0,1300.0,1300.0,Indonesia,Java,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,svm,0.998469,0.001147,0.000384
+7.5,7.5,7.42,7.25,7.5,7.5,10.0,10.0,10.0,7.25,0.11,0.0,0.0,0.0,35.0,1000.0,1000.0,1000.0,Taiwan,Typica,Other,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,10.0,7.17,0.17,0.0,0.0,14.0,1.0,1700.0,1700.0,1700.0,China,Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.127271,0.003456,0.869273
+7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,0.0,7.0,0.0,9.0,275.0,900.0,1500.0,1200.0,Peru,Caturra,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.999193,0.00078,2.7e-05
+8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,10.0,8.0,0.1,0.0,0.0,1.0,275.0,1417.32,1417.32,1417.32,Guatemala,Catuai,Washed / Wet,Bluish-Green,ft,Excellent,Excellent,svm,0.00623,0.983526,0.010244
+7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,10.0,7.17,0.11,0.0,0.0,3.0,250.0,,,,Guatemala,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,7.42,0.0,0.0,7.0,0.0,20.0,,,,India,Unknown,Natural / Dry,Green,m,Below Specialty,Below Specialty,svm,0.999328,0.000669,3e-06
+7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,10.0,7.67,0.09,0.0,0.0,0.0,1.0,800.0,800.0,800.0,Ecuador,Unknown,Natural / Dry,Bluish-Green,m,Very Good,Very Good,svm,8e-06,0.003202,0.996791
+6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,6.0,6.42,0.14,8.0,0.0,16.0,1.0,350.0,350.0,350.0,Haiti,Typica,Natural / Dry,Blue-Green,m,Below Specialty,Below Specialty,svm,1.0,0.0,0.0
+7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,10.0,7.67,0.12,0.0,0.0,0.0,275.0,165.0,165.0,165.0,Colombia,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,10.0,7.42,0.12,0.0,0.0,10.0,15.0,1250.0,1250.0,1250.0,Mexico,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+8.42,8.5,8.42,8.42,8.33,8.42,10.0,10.0,10.0,9.25,0.0,0.0,0.0,0.0,5.0,1600.0,1800.0,1700.0,Guatemala,Bourbon,Unknown,Unknown,m,Excellent,Excellent,svm,0.0,1.0,0.0
+7.83,7.58,7.58,7.58,7.75,7.58,10.0,10.0,10.0,7.58,0.0,0.0,0.0,0.0,10.0,1600.0,1600.0,1600.0,Indonesia,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,1e-06,1e-06,0.999999
+8.0,7.83,7.83,7.42,7.25,7.25,10.0,10.0,10.0,7.08,0.08,0.0,0.0,0.0,10.0,1200.0,1200.0,1200.0,Taiwan,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,7.92,0.12,0.0,0.0,1.0,7.0,1700.0,1700.0,1700.0,Papua New Guinea,Unknown,Washed / Wet,Bluish-Green,m,Excellent,Excellent,svm,0.005201,0.993613,0.001186
+7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,10.0,7.58,0.11,0.0,3.0,5.0,320.0,894.0,894.0,894.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7.0,0.11,0.0,0.0,8.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Below Specialty,Below Specialty,svm,0.999771,0.000229,1e-06
+7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,10.0,7.42,0.11,0.0,0.0,2.0,250.0,1400.0,1400.0,1400.0,Mexico,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,2e-06,1e-06,0.999996
+7.92,7.67,7.5,7.83,7.58,7.67,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,275.0,,,,Colombia,Unknown,Washed / Wet,Unknown,m,Very Good,Very Good,svm,5e-06,0.002512,0.997484
+7.42,7.75,7.75,8.0,8.0,7.92,10.0,10.0,10.0,7.83,0.2,0.0,0.0,3.0,300.0,1500.0,2000.0,1750.0,Ethiopia,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.000843,0.041934,0.957223
+7.58,7.42,7.75,7.92,7.75,7.92,10.0,10.0,10.0,7.67,0.12,0.0,0.0,0.0,250.0,1450.0,1450.0,1450.0,Colombia,Caturra,Natural / Dry,Green,m,Very Good,Very Good,svm,9e-06,0.003566,0.996425
+7.58,7.83,7.75,7.67,7.67,8.0,10.0,10.0,10.0,7.67,0.11,0.0,0.0,3.0,1.0,894.0,1183.0,1038.5,Brazil,Mundo Novo,Natural / Dry,Green,m,Very Good,Very Good,svm,5.7e-05,0.00944,0.990503
+7.08,7.5,7.5,7.83,7.75,7.67,10.0,10.0,10.0,7.58,0.11,0.0,0.0,16.0,300.0,11000.0,11000.0,11000.0,Brazil,Moka Peaberry,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.75,7.58,7.83,7.92,7.58,9.33,10.0,10.0,7.5,0.12,0.0,0.0,5.0,280.0,,,,Peru,Unknown,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,10.0,7.75,0.12,0.0,0.0,2.0,1.0,1450.0,1700.0,1575.0,Costa Rica,Bourbon,Semi-washed / Semi-pulped,Bluish-Green,m,Very Good,Very Good,svm,0.006885,0.2155,0.777615
+7.58,7.5,7.75,7.58,7.75,7.67,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,275.0,1330.0,1330.0,1330.0,El Salvador,Bourbon,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.92,7.67,7.33,7.08,7.08,7.08,10.0,10.0,10.0,6.75,0.09,0.0,0.0,0.0,10.0,550.0,550.0,550.0,Taiwan,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.007508,0.000337,0.992155
+7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,10.0,6.67,0.13,0.0,0.0,3.0,23.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.999544,0.00044,1.6e-05
+8.33,8.17,7.75,8.0,7.75,7.83,10.0,10.0,10.0,8.17,0.0,0.0,0.0,0.0,1.0,426.72,426.72,426.72,United States (Hawaii),Unknown,Unknown,Unknown,ft,Excellent,Excellent,svm,0.004938,0.992702,0.002359
+7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,10.0,7.92,0.0,0.0,0.0,1.0,250.0,1800.0,2000.0,1900.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,4e-06,0.002211,0.997785
+7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,10.0,7.42,0.11,0.0,0.0,3.0,275.0,1300.0,1800.0,1550.0,Guatemala,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+6.5,6.67,6.42,7.17,7.33,6.5,8.0,6.0,10.0,6.42,0.11,0.0,0.0,0.0,25.0,1800.0,1800.0,1800.0,Mexico,Bourbon,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,1.0,0.0,0.0
+7.75,8.08,8.0,8.25,8.0,8.0,10.0,10.0,10.0,7.92,0.01,0.0,0.0,4.0,300.0,1500.0,2000.0,1750.0,Ethiopia,Unknown,Unknown,Unknown,m,Excellent,Excellent,svm,0.004542,0.988836,0.006622
+7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,10.0,7.58,0.0,0.0,0.0,0.0,305.0,900.0,1100.0,1000.0,Brazil,Catuai,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,0.1,0.0,4.0,1.0,25.0,190164.0,190164.0,190164.0,Guatemala,Bourbon,Washed / Wet,Green,m,Below Specialty,Very Good,svm,0.0,0.0,1.0
+7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,10.0,7.58,0.1,1.0,0.0,18.0,320.0,1600.0,1600.0,1600.0,Ethiopia,Unknown,Natural / Dry,Unknown,m,Very Good,Very Good,svm,1e-06,1e-06,0.999998
+7.42,7.0,7.0,7.17,7.08,7.0,9.33,8.67,10.0,7.17,0.1,0.0,0.0,0.0,275.0,1000.0,1000.0,1000.0,Nicaragua,Unknown,Unknown,Bluish-Green,m,Below Specialty,Below Specialty,svm,0.998957,0.000973,7e-05
+7.25,7.58,7.58,7.25,7.5,7.42,10.0,10.0,10.0,7.5,0.11,0.0,0.0,0.0,4.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,7.92,0.11,0.0,0.0,5.0,320.0,890.0,890.0,890.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.83,7.5,7.42,7.5,7.83,8.5,10.0,10.0,10.0,7.5,0.0,1.0,3.0,3.0,275.0,442.0,442.0,442.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.001254,0.020049,0.978698
+7.5,7.92,7.42,7.67,7.83,7.58,10.0,10.0,10.0,7.5,0.01,0.0,0.0,0.0,12.0,,,,United States (Hawaii),Unknown,Unknown,Unknown,ft,Very Good,Very Good,svm,8e-06,0.003027,0.996964
+8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,10.0,7.75,0.12,0.0,0.0,2.0,37.0,1300.0,1300.0,1300.0,Brazil,Bourbon,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,svm,0.004119,0.106887,0.888994
+7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,10.0,7.83,0.12,0.0,0.0,0.0,15.0,1400.0,1400.0,1400.0,Mexico,Pacamara,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,10.0,7.42,0.12,0.0,0.0,2.0,1.0,1040.0,1040.0,1040.0,Vietnam,Other,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,10.0,8.25,0.11,1.0,0.0,1.0,120.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.17,0.11,0.0,0.0,4.0,275.0,1676.4,1828.8,1752.6,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,1e-06,0.0,0.999999
+7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,10.0,7.08,0.11,0.0,0.0,4.0,15.0,1400.0,1400.0,1400.0,Mexico,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,2e-06,1e-06,0.999997
+8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,10.0,7.92,0.1,0.0,0.0,2.0,250.0,1300.0,1300.0,1300.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Excellent,Excellent,svm,0.009056,0.57133,0.419614
+7.83,8.25,8.08,8.17,8.17,8.17,10.0,10.0,10.0,8.25,0.05,0.0,0.0,2.0,150.0,,,,Ethiopia,Unknown,Unknown,Unknown,m,Excellent,Excellent,svm,0.001495,0.998365,0.000141
+7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,10.0,6.83,0.11,0.0,0.0,6.0,275.0,1300.0,1800.0,1550.0,Guatemala,Catuai,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.9397,0.005579,0.054721
+7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,10.0,7.25,0.12,0.0,0.0,1.0,250.0,13.0,13.0,13.0,Costa Rica,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-06,0.0,0.999999
+7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,10.0,7.5,0.11,0.0,0.0,2.0,250.0,1380.0,1380.0,1380.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,8.0,0.12,0.0,0.0,3.0,150.0,1524.0,1524.0,1524.0,Guatemala,Bourbon,Washed / Wet,Green,ft,Excellent,Excellent,svm,0.006905,0.970048,0.023047
+7.33,7.67,7.25,7.5,7.5,7.25,10.0,10.0,10.0,7.33,0.02,0.0,0.0,2.0,58.0,900.0,950.0,925.0,Brazil,Mundo Novo,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,10.0,7.25,0.13,0.0,0.0,23.0,100.0,1250.0,1250.0,1250.0,Mexico,Mundo Novo,Washed / Wet,Green,m,Very Good,Very Good,svm,2e-06,1e-06,0.999997
+7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,10.0,7.58,0.12,4.0,0.0,11.0,48.0,1100.0,1100.0,1100.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,10.0,7.33,0.11,0.0,0.0,2.0,250.0,1500.0,1500.0,1500.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,10.0,7.5,0.12,0.0,0.0,0.0,121.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.17,7.17,7.25,7.5,7.33,10.0,10.0,10.0,7.33,0.12,0.0,0.0,0.0,10.0,758.0,758.0,758.0,Taiwan,Typica,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.007449,0.0003,0.992251
+7.5,7.75,7.58,7.5,7.58,7.5,10.0,10.0,10.0,8.5,0.0,0.0,0.0,3.0,320.0,890.0,890.0,890.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,7e-06,0.002835,0.997159
+7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,10.0,7.25,0.12,0.0,0.0,12.0,300.0,990.0,1000.0,995.0,Malawi,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.003476,0.000205,0.996319
+7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,10.0,7.92,0.11,0.0,0.0,3.0,50.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Excellent,svm,0.007611,0.35001,0.642379
+7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,10.0,7.5,0.1,6.0,1.0,3.0,100.0,1850.0,1850.0,1850.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,10.0,6.92,0.13,0.0,0.0,6.0,3.0,,,,United States (Hawaii),Arusha,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,svm,0.05162,0.002439,0.945941
+7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,0.1,0.0,0.0,0.0,1.0,,,,Colombia,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.22686,0.009883,0.763257
+6.83,6.75,7.17,7.25,7.0,6.92,10.0,10.0,10.0,6.67,0.1,0.0,0.0,0.0,50.0,800.0,800.0,800.0,Taiwan,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.979934,0.002014,0.018051
+7.67,7.5,7.5,7.17,7.17,7.58,10.0,10.0,10.0,7.58,0.0,0.0,0.0,0.0,80.0,800.0,800.0,800.0,Taiwan,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.08,7.17,7.17,7.58,7.25,10.0,10.0,10.0,7.25,0.1,2.0,0.0,5.0,7.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,svm,0.022811,0.000987,0.976202
+7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,10.0,7.58,0.11,0.0,0.0,1.0,275.0,1750.0,1750.0,1750.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,10.0,7.17,0.0,0.0,0.0,3.0,2.0,800.0,800.0,800.0,Thailand,Unknown,Washed / Wet,Green,m,Very Good,Very Good,svm,0.012757,0.000768,0.986474
+7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,10.0,7.67,0.1,0.0,0.0,1.0,25.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,10.0,7.17,0.13,0.0,0.0,2.0,54.0,1456.0,1456.0,1456.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.004775,0.000253,0.994972
+7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,10.0,7.58,0.11,0.0,2.0,2.0,320.0,905.0,905.0,905.0,Brazil,Yellow Bourbon,Pulped natural / honey,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,10.0,7.67,0.11,0.0,0.0,3.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,10.0,7.25,0.12,0.0,0.0,4.0,70.0,1000.0,1000.0,1000.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.013524,0.000873,0.985603
+8.67,8.67,8.58,8.42,8.33,8.42,9.33,10.0,9.33,8.67,0.03,0.0,0.0,0.0,300.0,1570.0,1700.0,1635.0,Ethiopia,Unknown,Unknown,Unknown,m,Excellent,Excellent,svm,0.0,1.0,0.0
+7.42,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,7.5,0.11,0.0,0.0,0.0,300.0,1500.0,1500.0,1500.0,Thailand,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.0,6.58,6.67,6.83,7.08,6.83,10.0,6.67,10.0,6.67,0.14,3.0,0.0,11.0,20.0,1140.0,1140.0,1140.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.999988,1.2e-05,0.0
+7.83,8.0,7.83,7.75,7.67,7.83,10.0,10.0,10.0,8.08,0.09,0.0,0.0,3.0,1.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Excellent,Very Good,svm,0.006127,0.255558,0.738314
+7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,10.0,7.67,0.11,0.0,0.0,0.0,3.0,1200.0,1200.0,1200.0,China,Catimor,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,10.0,7.67,0.11,0.0,0.0,1.0,320.0,1500.0,1700.0,1600.0,Uganda,Other,Washed / Wet,Green,m,Very Good,Very Good,svm,1.2e-05,0.004293,0.995695
+7.42,7.08,6.75,7.33,7.33,6.92,10.0,9.33,10.0,6.92,0.13,0.0,0.0,0.0,18.0,853.44,853.44,853.44,United States (Puerto Rico),Other,Washed / Wet,Green,ft,Below Specialty,Below Specialty,svm,0.956605,0.005534,0.037861
+7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.83,0.11,0.0,0.0,1.0,200.0,1750.0,1750.0,1750.0,Uganda,SL14,Washed / Wet,Green,m,Very Good,Very Good,svm,0.000216,0.019493,0.98029
+7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,10.0,7.5,0.11,0.0,0.0,2.0,80.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,10.0,7.58,0.11,1.0,0.0,3.0,275.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,10.0,7.08,0.15,0.0,0.0,0.0,13.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Below Specialty,svm,0.745485,0.009173,0.245342
+7.67,7.42,7.67,7.33,7.25,7.58,10.0,10.0,10.0,7.17,0.08,1.0,0.0,5.0,275.0,1600.0,1600.0,1600.0,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.5,7.33,7.58,7.67,7.33,10.0,10.0,10.0,7.33,0.11,0.0,0.0,2.0,275.0,1390.8024,1390.8024,1390.8024,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,10.0,7.0,0.12,0.0,0.0,8.0,250.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.991268,0.003009,0.005724
+7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,10.0,7.33,0.1,1.0,0.0,3.0,275.0,700.0,1400.0,1050.0,Nicaragua,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.023365,0.000811,0.975824
+7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10.0,6.75,0.13,23.0,0.0,29.0,18.0,1280.0,1280.0,1280.0,Mexico,Typica,Washed / Wet,Bluish-Green,m,Below Specialty,Below Specialty,svm,0.999975,2.5e-05,0.0
+7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,10.0,7.08,0.12,0.0,0.0,4.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,5e-06,3e-06,0.999992
+7.17,7.42,7.5,8.0,7.25,7.83,10.0,10.0,6.67,7.33,0.1,5.0,0.0,20.0,1.0,,,,Costa Rica,Catuai,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,svm,0.606383,0.01217,0.381447
+7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.25,0.11,0.0,0.0,6.0,20.0,1000.0,1000.0,1000.0,Mexico,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,svm,3e-06,2e-06,0.999996
+7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,10.0,7.5,0.12,0.0,0.0,7.0,10.0,1700.0,1700.0,1700.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.67,7.83,7.75,7.75,7.92,7.83,10.0,10.0,10.0,7.92,0.0,0.0,0.0,3.0,1.0,,,,Peru,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.00434,0.151358,0.844302
+7.25,7.08,7.25,7.25,7.17,7.25,10.0,10.0,10.0,7.0,0.11,0.0,0.0,0.0,5.0,700.0,700.0,700.0,Taiwan,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,svm,0.034286,0.000571,0.965143
+8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,10.0,8.0,0.12,0.0,0.0,3.0,31.0,1100.0,1100.0,1100.0,Brazil,Mundo Novo,Natural / Dry,Green,m,Excellent,Excellent,svm,0.008262,0.372,0.619738
+7.75,7.58,7.25,7.75,7.67,7.58,10.0,10.0,10.0,7.08,0.0,0.0,0.0,1.0,1.0,1400.0,1400.0,1400.0,Mexico,Blue Mountain,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+8.08,8.17,8.0,7.92,7.92,7.83,10.0,10.0,10.0,8.33,0.0,1.0,0.0,4.0,10.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Unknown,ft,Excellent,Excellent,svm,0.003853,0.994338,0.001809
+7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,10.0,6.67,0.13,0.0,0.0,1.0,250.0,1400.0,1400.0,1400.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.993899,0.002179,0.003922
+7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,10.0,8.0,0.0,0.0,0.0,2.0,150.0,1350.0,1350.0,1350.0,El Salvador,Bourbon,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,0.004986,0.152418,0.842597
+7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,10.0,7.58,0.11,0.0,0.0,5.0,250.0,1380.0,1380.0,1380.0,Mexico,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,10.0,7.83,0.1,0.0,0.0,4.0,250.0,1400.0,1400.0,1400.0,Mexico,Bourbon,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.000119,0.013794,0.986087
+7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,10.0,7.67,0.13,0.0,0.0,0.0,10.0,1400.0,1400.0,1400.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-05,0.003835,0.996155
+7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,10.0,1296.0,1296.0,1296.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,10.0,7.42,0.11,0.0,0.0,10.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.58,7.5,7.33,7.42,7.42,10.0,10.0,10.0,7.42,0.13,0.0,0.0,7.0,35.0,1300.0,1300.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,10.0,7.67,0.11,0.0,7.0,6.0,100.0,1500.0,1500.0,1500.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.001451,0.021225,0.977324
+8.42,8.17,8.17,8.0,7.58,8.0,10.0,10.0,10.0,8.17,0.11,0.0,0.0,1.0,100.0,,,,"Tanzania, United Republic Of",Unknown,Natural / Dry,Bluish-Green,m,Excellent,Excellent,svm,0.002969,0.995506,0.001525
+7.92,7.67,7.92,7.75,7.67,7.58,10.0,10.0,10.0,8.0,0.1,0.0,0.0,2.0,275.0,1200.0,1200.0,1200.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.002073,0.048339,0.949588
+7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,10.0,7.33,0.11,0.0,0.0,1.0,250.0,1250.0,1250.0,1250.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,10.0,7.25,0.12,0.0,0.0,1.0,10.0,1400.0,1400.0,1400.0,"Tanzania, United Republic Of",Other,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.042924,0.0012,0.955876
+7.42,7.58,7.5,7.17,7.5,8.0,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,2.0,,,,Thailand,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,7.75,0.0,0.0,0.0,2.0,250.0,,,,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.00152,0.026996,0.971483
+7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,10.0,6.67,0.12,0.0,0.0,4.0,310.0,1400.0,1400.0,1400.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.832065,0.007258,0.160677
+7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,10.0,7.17,0.12,0.0,0.0,1.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,1e-06,1e-06,0.999998
+7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,10.0,7.17,0.11,0.0,0.0,5.0,275.0,1400.0,1400.0,1400.0,Honduras,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.010817,0.000338,0.988845
+7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,10.0,7.58,0.11,0.0,0.0,2.0,250.0,1800.0,2000.0,1900.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,10.0,7.83,0.11,0.0,0.0,3.0,320.0,1700.0,1850.0,1775.0,Uganda,Other,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,0.000594,0.034409,0.964997
+8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,10.0,7.67,0.11,0.0,0.0,4.0,250.0,1310.64,1310.64,1310.64,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.005228,0.159071,0.835702
+7.58,7.5,7.33,7.75,7.5,7.5,10.0,10.0,10.0,7.42,0.0,0.0,0.0,4.0,42.0,900.0,1050.0,975.0,Brazil,Mundo Novo,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.42,0.13,0.0,0.0,0.0,24.0,1556.0,1556.0,1556.0,Malawi,Gesha,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.58,7.42,7.42,7.33,7.33,10.0,10.0,10.0,7.42,0.11,0.0,0.0,0.0,320.0,1100.0,1100.0,1100.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.42,7.25,7.67,7.33,7.25,10.0,10.0,10.0,7.25,0.1,0.0,0.0,0.0,20.0,800.0,800.0,800.0,Taiwan,Typica,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999999
+7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,10.0,7.67,0.13,0.0,0.0,6.0,180.0,1653.0,1653.0,1653.0,"Tanzania, United Republic Of",Other,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,10.0,7.25,0.11,0.0,0.0,1.0,250.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.015367,0.000657,0.983975
+7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.5,0.11,0.0,0.0,3.0,275.0,1350.0,1350.0,1350.0,Honduras,Caturra,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,10.0,7.75,0.12,0.0,0.0,4.0,320.0,1650.0,1703.0,1676.5,Ethiopia,Unknown,Natural / Dry,Green,m,Very Good,Very Good,svm,9e-06,0.003466,0.996525
+7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,10.0,7.67,0.13,0.0,0.0,8.0,200.0,1500.0,1500.0,1500.0,Indonesia,Sumatra,Semi-washed / Semi-pulped,Bluish-Green,m,Very Good,Very Good,svm,3e-06,3e-06,0.999994
+7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,10.0,7.92,0.0,0.0,0.0,5.0,75.0,1600.0,1900.0,1750.0,Colombia,Caturra,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.001523,0.058276,0.940202
+7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,10.0,7.25,0.12,1.0,5.0,17.0,200.0,1100.0,1100.0,1100.0,Mexico,Mundo Novo,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0053,0.000489,0.994211
+7.58,7.58,7.5,7.58,7.58,7.75,10.0,10.0,10.0,7.67,0.0,0.0,0.0,0.0,250.0,1483.0,1483.0,1483.0,Colombia,Caturra,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,0.999999
+7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,10.0,7.17,0.11,0.0,0.0,2.0,275.0,1100.0,1275.0,1187.5,Nicaragua,Caturra,Washed / Wet,Unknown,m,Very Good,Below Specialty,svm,0.390869,0.006408,0.602723
+7.92,8.0,7.5,6.75,7.92,7.58,10.0,10.0,9.33,7.67,0.0,0.0,0.0,17.0,288.0,,,,El Salvador,Other,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,10.0,7.33,0.1,0.0,0.0,4.0,250.0,1200.0,1400.0,1300.0,Costa Rica,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,10.0,7.42,0.11,0.0,0.0,0.0,5.0,600.0,600.0,600.0,Taiwan,Typica,Other,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.08,7.08,7.33,7.25,7.58,10.0,10.0,10.0,7.25,0.0,0.0,2.0,6.0,100.0,1450.0,1450.0,1450.0,El Salvador,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.005009,0.000247,0.994744
+7.33,7.58,7.42,7.5,7.5,7.5,10.0,10.0,10.0,7.5,0.11,0.0,0.0,0.0,320.0,,,,Mexico,Unknown,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.67,7.67,7.67,7.75,7.83,10.0,10.0,10.0,7.92,0.1,0.0,0.0,4.0,10.0,968.0,968.0,968.0,Taiwan,Typica,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,5e-06,0.00253,0.997466
+6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,10.0,6.67,0.11,2.0,0.0,6.0,275.0,1350.0,1350.0,1350.0,Honduras,Pacas,Natural / Dry,Green,m,Below Specialty,Below Specialty,svm,0.997612,0.001081,0.001307
+8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,10.0,8.0,0.12,0.0,0.0,5.0,150.0,1950.0,1950.0,1950.0,Uganda,SL14,Washed / Wet,Green,m,Excellent,Excellent,svm,0.008629,0.650367,0.341005
+7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,7.75,0.11,0.0,0.0,5.0,320.0,890.0,890.0,890.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,2e-06,2e-06,0.999996
+7.25,7.25,7.0,7.5,7.33,7.42,8.0,9.33,10.0,7.75,0.13,31.0,0.0,47.0,100.0,1300.0,1300.0,1300.0,Mexico,Typica,Natural / Dry,Green,m,Below Specialty,Below Specialty,svm,0.559288,0.00164,0.439071
+7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10.0,7.33,0.0,0.0,0.0,3.0,250.0,1200.0,1200.0,1200.0,Colombia,Caturra,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.869247,0.00641,0.124343
+7.08,6.83,6.83,7.25,7.42,7.08,10.0,10.0,10.0,6.75,0.11,0.0,0.0,0.0,50.0,850.0,850.0,850.0,Taiwan,Typica,Washed / Wet,Blue-Green,m,Below Specialty,Below Specialty,svm,0.939635,0.004269,0.056096
+7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,10.0,7.5,0.0,0.0,0.0,0.0,250.0,1400.0,1850.0,1625.0,Colombia,Caturra,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.67,7.42,7.75,7.42,7.17,10.0,10.0,10.0,7.75,0.11,0.0,2.0,3.0,8.0,1300.0,1300.0,1300.0,Mexico,Unknown,Unknown,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10.0,7.67,0.0,0.0,0.0,14.0,275.0,,,,Costa Rica,Unknown,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.58,0.1,0.0,0.0,1.0,60.0,1200.0,1200.0,1200.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,10.0,7.58,0.0,0.0,0.0,1.0,275.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,3.1e-05,0.006592,0.993377
+7.25,7.17,6.92,7.25,7.17,7.25,10.0,10.0,10.0,7.08,0.1,0.0,0.0,4.0,1.0,,,,Nicaragua,Unknown,Natural / Dry,Green,m,Very Good,Below Specialty,svm,0.607437,0.01155,0.381013
+7.58,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.67,0.08,1.0,2.0,13.0,275.0,,,,Costa Rica,Unknown,Washed / Wet,Unknown,m,Very Good,Very Good,svm,4.2e-05,0.008123,0.991835
+7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,10.0,7.25,0.12,0.0,0.0,1.0,275.0,1400.0,1400.0,1400.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999998
+7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,8.0,6.5,0.1,0.0,0.0,3.0,275.0,1450.0,1450.0,1450.0,Honduras,Catuai,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,1.0,0.0,0.0
+7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,10.0,7.33,0.12,0.0,0.0,3.0,275.0,1450.0,1450.0,1450.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,2e-06,1e-06,0.999997
+7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,10.0,7.0,0.14,0.0,0.0,19.0,50.0,750.0,750.0,750.0,Mexico,Typica,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.957725,0.007186,0.03509
+7.58,7.75,7.67,7.5,7.67,7.58,10.0,10.0,10.0,7.42,0.02,0.0,0.0,2.0,90.0,900.0,900.0,900.0,Brazil,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,7.58,0.1,0.0,0.0,2.0,250.0,1500.0,1500.0,1500.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999999
+7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,10.0,7.17,0.12,0.0,0.0,5.0,250.0,1600.0,1600.0,1600.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.002113,0.000173,0.997714
+7.75,7.67,7.5,7.75,7.83,7.75,10.0,10.0,10.0,7.67,0.11,1.0,0.0,2.0,250.0,442.0,442.0,442.0,Colombia,Unknown,Unknown,Green,m,Very Good,Very Good,svm,6.3e-05,0.009461,0.990476
+8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,10.0,7.58,0.12,0.0,0.0,0.0,10.0,1200.0,1600.0,1400.0,Indonesia,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999999
+7.08,6.83,6.83,7.0,7.0,6.92,10.0,10.0,10.0,6.83,0.12,0.0,0.0,14.0,10.0,1400.0,1400.0,1400.0,Mexico,Typica,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,svm,0.997305,0.001987,0.000708
+8.25,7.83,7.25,8.33,8.17,8.08,10.0,6.67,10.0,7.75,0.07,0.0,0.0,0.0,12.0,1268.0,1268.0,1268.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,0.011929,0.063156,0.924915
+6.92,7.58,7.42,7.33,7.83,7.5,10.0,10.0,10.0,7.58,0.0,0.0,0.0,1.0,320.0,1.0,1.0,1.0,Brazil,Yellow Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,275.0,1850.0,1850.0,1850.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999999
+8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,10.0,7.92,0.0,0.0,0.0,7.0,250.0,1400.0,1400.0,1400.0,Guatemala,Caturra,Washed / Wet,Unknown,m,Excellent,Excellent,svm,0.009882,0.667148,0.32297
+8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,10.0,8.0,0.11,0.0,0.0,1.0,200.0,1800.0,1800.0,1800.0,Uganda,SL14,Washed / Wet,Green,m,Excellent,Very Good,svm,0.004939,0.208075,0.786986
+7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,10.0,7.83,0.11,0.0,0.0,2.0,250.0,1700.0,1700.0,1700.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,4.9e-05,0.008738,0.991213
+7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,10.0,7.42,0.13,0.0,0.0,20.0,2.0,1500.0,1800.0,1650.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,7.33,0.11,0.0,0.0,2.0,275.0,1350.0,1350.0,1350.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.75,0.0,0.0,0.0,4.0,232.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,10.0,7.33,0.12,1.0,0.0,2.0,250.0,1200.0,1200.0,1200.0,Costa Rica,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,2e-06,1e-06,0.999997
+7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,10.0,7.17,0.11,0.0,0.0,1.0,250.0,1800.0,2000.0,1900.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,10.0,7.75,0.1,0.0,1.0,2.0,3.0,1650.0,1650.0,1650.0,China,Catimor,Washed / Wet,Green,m,Very Good,Very Good,svm,2e-06,0.00169,0.998308
+7.75,8.0,8.0,8.33,7.67,7.92,10.0,10.0,9.33,7.75,0.15,0.0,0.0,3.0,250.0,1200.0,1200.0,1200.0,El Salvador,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.000729,0.040088,0.959182
+7.58,7.33,7.5,7.42,7.5,7.33,8.0,8.67,9.33,7.33,0.12,2.0,0.0,3.0,5.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Below Specialty,Below Specialty,svm,0.998301,0.001538,0.000161
+7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,10.0,7.58,0.12,0.0,0.0,0.0,93.0,1700.0,1700.0,1700.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.42,0.09,0.0,0.0,4.0,250.0,1500.0,1500.0,1500.0,Guatemala,Bourbon,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,10.0,7.83,0.11,0.0,0.0,0.0,10.0,1200.0,1400.0,1300.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,10.0,8.08,0.12,0.0,0.0,0.0,20.0,170.0,170.0,170.0,Japan,Mundo Novo,Pulped natural / honey,Green,m,Very Good,Very Good,svm,0.001512,0.056291,0.942196
+7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,10.0,8.17,0.11,0.0,0.0,4.0,275.0,1450.0,1450.0,1450.0,Honduras,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,0.002881,0.085214,0.911905
+7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,10.0,7.33,0.0,2.0,0.0,0.0,50.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,10.0,7.5,0.11,0.0,0.0,8.0,275.0,1800.0,1800.0,1800.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,10.0,7.5,0.12,0.0,0.0,0.0,1.0,800.0,800.0,800.0,Thailand,Unknown,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,10.0,7.75,0.11,0.0,0.0,1.0,275.0,442.0,442.0,442.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,4e-06,0.002076,0.99792
+7.08,7.25,7.0,7.5,7.08,7.33,10.0,10.0,10.0,7.33,0.0,0.0,0.0,2.0,149.0,,,,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.043922,0.001549,0.954529
+7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,8.0,6.92,0.0,1.0,0.0,1.0,280.0,1200.0,1200.0,1200.0,Mexico,Typica,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,svm,0.999997,3e-06,0.0
+7.75,7.75,7.75,8.08,7.75,7.75,10.0,10.0,10.0,7.75,0.0,0.0,0.0,0.0,11.0,,,,Kenya,SL28,Washed / Wet,Green,m,Very Good,Very Good,svm,0.004603,0.142858,0.852539
+7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,10.0,7.67,0.11,0.0,2.0,7.0,275.0,2100.0,2100.0,2100.0,Guatemala,Pacas,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,10.0,7.5,0.12,0.0,0.0,4.0,250.0,1530.0,1530.0,1530.0,Colombia,Other,Washed / Wet,Green,m,Very Good,Very Good,svm,3e-06,0.002207,0.997789
+7.67,7.33,7.33,7.58,7.33,7.33,10.0,10.0,10.0,7.33,0.09,0.0,0.0,1.0,250.0,1600.0,1600.0,1600.0,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,7.5,0.1,1.0,0.0,1.0,2.0,1200.0,1600.0,1400.0,Mexico,Other,Washed / Wet,Unknown,m,Very Good,Very Good,svm,1e-06,0.0,0.999999
+8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,10.0,7.67,0.13,4.0,0.0,29.0,1.0,1700.0,1700.0,1700.0,Uganda,Other,Natural / Dry,Green,m,Very Good,Very Good,svm,0.001816,0.062857,0.935327
+7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,10.0,7.58,0.0,0.0,0.0,5.0,50.0,1799.0,1799.0,1799.0,Colombia,Caturra,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,3e-06,0.001989,0.998008
+8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,10.0,7.67,0.0,0.0,0.0,0.0,250.0,2560.0,2560.0,2560.0,Colombia,Caturra,Natural / Dry,Unknown,m,Excellent,Excellent,svm,0.010027,0.588302,0.401671
+7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,10.0,7.42,0.1,0.0,0.0,6.0,275.0,1676.4,1676.4,1676.4,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.17,7.0,6.75,7.17,7.33,10.0,10.0,10.0,6.92,0.1,0.0,0.0,4.0,250.0,1800.0,1800.0,1800.0,Colombia,Unknown,Unknown,Unknown,m,Below Specialty,Below Specialty,svm,0.887006,0.007609,0.105385
+7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,10.0,7.33,0.0,0.0,0.0,2.0,1.0,4001.0,4001.0,4001.0,Myanmar,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,10.0,7.0,0.12,0.0,0.0,12.0,14.0,1300.0,1300.0,1300.0,Mexico,Mundo Novo,Natural / Dry,Unknown,m,Below Specialty,Below Specialty,svm,0.992847,0.0046,0.002553
+7.67,7.67,7.17,7.33,7.58,7.67,10.0,10.0,10.0,7.67,0.0,0.0,0.0,4.0,275.0,1250.0,1250.0,1250.0,El Salvador,Bourbon,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.17,7.42,7.33,7.42,7.33,7.42,10.0,10.0,10.0,7.58,0.11,0.0,0.0,0.0,320.0,,,,Indonesia,Sumatra,Semi-washed / Semi-pulped,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.33,7.67,7.58,7.33,7.58,7.92,10.0,10.0,10.0,7.58,0.08,0.0,0.0,1.0,300.0,1050.0,1850.0,1450.0,Colombia,Unknown,Unknown,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,10.0,7.42,0.1,0.0,0.0,0.0,450.0,1371.6,1371.6,1371.6,Guatemala,Catuai,Washed / Wet,Green,ft,Very Good,Very Good,svm,2e-06,1e-06,0.999997
+7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,10.0,7.17,0.12,0.0,0.0,0.0,10.0,1200.0,1600.0,1400.0,Indonesia,Other,Washed / Wet,Green,m,Very Good,Very Good,svm,0.001966,0.000154,0.99788
+7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,10.0,7.83,0.1,0.0,0.0,1.0,45.0,1350.0,1350.0,1350.0,Thailand,Catimor,Natural / Dry,Bluish-Green,m,Very Good,Very Good,svm,6e-06,0.002734,0.99726
+7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,10.0,7.42,0.11,0.0,0.0,3.0,15.0,1100.0,1100.0,1100.0,Mexico,Typica,Natural / Dry,Green,m,Very Good,Very Good,svm,0.004842,0.000404,0.994754
+7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,10.0,7.83,0.12,0.0,0.0,0.0,275.0,900.0,1100.0,1000.0,Nicaragua,Caturra,Natural / Dry,Bluish-Green,m,Very Good,Very Good,svm,5.4e-05,0.009037,0.990909
+7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,10.0,7.42,0.12,0.0,0.0,0.0,25.0,190164.0,190164.0,190164.0,Guatemala,Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.75,7.58,7.5,7.58,7.75,7.75,10.0,10.0,10.0,7.83,0.11,0.0,0.0,2.0,200.0,1800.0,1800.0,1800.0,Kenya,SL28,Washed / Wet,Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999998
+7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,10.0,7.17,0.11,2.0,0.0,8.0,10.0,808.0,808.0,808.0,Mexico,Caturra,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.298345,0.006701,0.694954
+7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10.0,7.75,0.04,3.0,0.0,0.0,4.0,,,,United States (Hawaii),Unknown,Unknown,Unknown,ft,Very Good,Very Good,svm,0.00898,0.000634,0.990386
+7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,0.1,0.0,0.0,0.0,50.0,1219.2,1219.2,1219.2,Guatemala,Bourbon,Washed / Wet,Green,ft,Below Specialty,Below Specialty,svm,0.97027,0.006295,0.023435
+7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,10.0,7.83,0.11,0.0,0.0,3.0,275.0,1600.0,1950.0,1775.0,Colombia,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.000117,0.013794,0.986089
+7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,0.11,0.0,0.0,0.0,35.0,900.0,900.0,900.0,Taiwan,Typica,Washed / Wet,Unknown,m,Very Good,Very Good,svm,0.01467,0.000525,0.984805
+7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,10.0,7.33,0.11,0.0,0.0,0.0,28.0,1600.0,1600.0,1600.0,Mexico,Marigojipe,Natural / Dry,Unknown,m,Very Good,Very Good,svm,0.006126,0.000575,0.993298
+7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,10.0,7.42,0.12,0.0,0.0,0.0,20.0,157.8864,157.8864,157.8864,Guatemala,Bourbon,Washed / Wet,Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.08,6.75,6.58,7.0,7.0,6.75,8.67,8.67,10.0,6.42,0.17,0.0,0.0,6.0,14.0,1500.0,1500.0,1500.0,Mexico,Typica,Washed / Wet,Unknown,m,Below Specialty,Below Specialty,svm,0.999978,2.2e-05,0.0
+7.67,7.58,7.42,7.58,7.58,7.42,10.0,10.0,8.67,7.67,0.11,0.0,0.0,2.0,28.0,1650.0,1650.0,1650.0,Mexico,Typica,Natural / Dry,Unknown,m,Very Good,Very Good,svm,0.004482,0.000517,0.995001
+7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,1.33,6.67,0.1,0.0,0.0,4.0,275.0,1417.32,1417.32,1417.32,Guatemala,Catuai,Washed / Wet,Green,ft,Below Specialty,Below Specialty,svm,1.0,0.0,0.0
+7.5,7.5,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,0.11,0.0,0.0,0.0,10.0,650.0,650.0,650.0,Taiwan,Typica,Semi-washed / Semi-pulped,Green,m,Very Good,Very Good,svm,1e-06,1e-06,0.999998
+8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,0.0,0.0,0.0,15.0,1.0,,,,Colombia,Unknown,Natural / Dry,Bluish-Green,m,Below Specialty,Below Specialty,svm,0.999993,7e-06,0.0
+7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,10.0,7.5,0.11,0.0,0.0,2.0,28.0,1650.0,1650.0,1650.0,Mexico,Typica,Semi-washed / Semi-pulped,Unknown,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,10.0,7.58,0.11,0.0,0.0,3.0,250.0,1200.0,1400.0,1300.0,Costa Rica,Catuai,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,10.0,7.83,0.11,0.0,0.0,5.0,66.0,1754.0,1754.0,1754.0,Kenya,SL34,Washed / Wet,Blue-Green,m,Very Good,Very Good,svm,0.001704,0.061667,0.936629
+7.5,7.58,7.42,7.67,7.58,7.5,10.0,10.0,10.0,7.5,0.1,0.0,1.0,3.0,275.0,1100.0,1100.0,1100.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,10.0,7.25,0.12,0.0,0.0,9.0,20.0,1250.0,1250.0,1250.0,Mexico,Typica,Washed / Wet,Green,m,Very Good,Below Specialty,svm,0.700652,0.009773,0.289575
+7.58,7.08,6.92,7.58,7.5,6.92,10.0,9.33,10.0,6.83,0.13,0.0,0.0,4.0,275.0,1022.0,1022.0,1022.0,Mexico,Bourbon,Washed / Wet,Green,m,Below Specialty,Below Specialty,svm,0.779514,0.008572,0.211914
+7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,10.0,7.58,0.11,0.0,2.0,3.0,320.0,872.0,872.0,872.0,Brazil,Bourbon,Natural / Dry,Bluish-Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,10.0,7.83,0.11,0.0,0.0,1.0,250.0,1706.88,1755.648,1731.264,Guatemala,Bourbon,Washed / Wet,Green,ft,Excellent,Excellent,svm,0.009479,0.892207,0.098313
+7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,7.5,0.13,1.0,0.0,6.0,30.0,1500.0,1800.0,1650.0,"Tanzania, United Republic Of",Bourbon,Washed / Wet,Green,m,Very Good,Very Good,svm,0.0,0.0,1.0
+7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,10.0,7.08,0.11,0.0,0.0,1.0,250.0,1200.0,1200.0,1200.0,Guatemala,Caturra,Washed / Wet,Green,m,Very Good,Very Good,svm,0.018391,0.000729,0.980881
+7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,10.0,7.67,0.0,0.0,0.0,0.0,150.0,1650.0,1650.0,1650.0,Kenya,SL28,Washed / Wet,Bluish-Green,m,Very Good,Very Good,svm,7.7e-05,0.010742,0.989181
+7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,10.0,7.67,0.08,0.0,0.0,1.0,20.0,1750.0,1750.0,1750.0,Costa Rica,Other,Other,Green,m,Very Good,Very Good,svm,0.002234,0.073476,0.92429
+7.42,7.33,7.33,7.5,7.67,7.75,8.0,8.67,9.33,7.25,0.11,4.0,0.0,31.0,5.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,ft,Below Specialty,Below Specialty,svm,0.995344,0.003551,0.001105
+7.33,7.42,7.5,7.67,7.5,7.42,10.0,10.0,10.0,7.42,0.0,0.0,0.0,1.0,6.0,,,,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,ft,Very Good,Very Good,svm,0.0,0.0,1.0
+7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,10.0,7.42,0.0,0.0,0.0,0.0,320.0,1100.0,1100.0,1100.0,Brazil,Bourbon,Natural / Dry,Green,m,Very Good,Very Good,svm,2e-06,1e-06,0.999996

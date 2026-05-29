@@ -1,0 +1,193 @@
+{
+  "dataset": {
+    "raw_rows": 1319,
+    "clean_rows": 1306,
+    "dropped_rows": 13,
+    "features": [
+      "Aroma",
+      "Flavor",
+      "Aftertaste",
+      "Acidity",
+      "Body",
+      "Balance",
+      "Uniformity",
+      "Clean.Cup",
+      "Sweetness",
+      "Cupper.Points",
+      "Moisture",
+      "Category.One.Defects",
+      "Quakers",
+      "Category.Two.Defects",
+      "Number.of.Bags",
+      "altitude_low_meters",
+      "altitude_high_meters",
+      "altitude_mean_meters",
+      "Country.of.Origin",
+      "Variety",
+      "Processing.Method",
+      "Color",
+      "unit_of_measurement"
+    ],
+    "target_distribution": {
+      "Very Good": 1021,
+      "Below Specialty": 179,
+      "Excellent": 106
+    },
+    "quality_bins": [
+      0.0,
+      80.0,
+      85.0,
+      101.0
+    ],
+    "quality_labels": [
+      "Below Specialty",
+      "Very Good",
+      "Excellent"
+    ]
+  },
+  "models": {
+    "svm": {
+      "accuracy": 0.9656488549618321,
+      "balanced_accuracy": 0.9492386114337333,
+      "precision_macro": 0.9367161716171616,
+      "recall_macro": 0.9492386114337333,
+      "f1_macro": 0.9419229592528694,
+      "f1_weighted": 0.9659852665565607,
+      "labels": [
+        "Below Specialty",
+        "Excellent",
+        "Very Good"
+      ],
+      "classification_report": {
+        "Below Specialty": {
+          "precision": 0.875,
+          "recall": 0.9722222222222222,
+          "f1-score": 0.9210526315789473,
+          "support": 36.0
+        },
+        "Excellent": {
+          "precision": 0.95,
+          "recall": 0.9047619047619048,
+          "f1-score": 0.926829268292683,
+          "support": 21.0
+        },
+        "Very Good": {
+          "precision": 0.9851485148514851,
+          "recall": 0.9707317073170731,
+          "f1-score": 0.9778869778869779,
+          "support": 205.0
+        },
+        "accuracy": 0.9656488549618321,
+        "macro avg": {
+          "precision": 0.9367161716171616,
+          "recall": 0.9492386114337333,
+          "f1-score": 0.9419229592528694,
+          "support": 262.0
+        },
+        "weighted avg": {
+          "precision": 0.9671963570402843,
+          "recall": 0.9656488549618321,
+          "f1-score": 0.9659852665565607,
+          "support": 262.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          35,
+          0,
+          1
+        ],
+        [
+          0,
+          19,
+          2
+        ],
+        [
+          5,
+          1,
+          199
+        ]
+      ],
+      "roc_auc_ovr_weighted": 0.979595068790444,
+      "roc_auc_ovr_macro": 0.9832263726832311,
+      "best_params": {
+        "model__C": 1,
+        "model__kernel": "linear"
+      },
+      "best_cv_f1_macro": 0.9550197674714063
+    },
+    "random_forest": {
+      "accuracy": 0.9274809160305344,
+      "balanced_accuracy": 0.8378242353852109,
+      "precision_macro": 0.8941176470588236,
+      "recall_macro": 0.8378242353852109,
+      "f1_macro": 0.8629203247385391,
+      "f1_weighted": 0.9260150397366945,
+      "labels": [
+        "Below Specialty",
+        "Excellent",
+        "Very Good"
+      ],
+      "classification_report": {
+        "Below Specialty": {
+          "precision": 0.8571428571428571,
+          "recall": 0.8333333333333334,
+          "f1-score": 0.8450704225352113,
+          "support": 36.0
+        },
+        "Excellent": {
+          "precision": 0.8823529411764706,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.7894736842105263,
+          "support": 21.0
+        },
+        "Very Good": {
+          "precision": 0.9428571428571428,
+          "recall": 0.9658536585365853,
+          "f1-score": 0.9542168674698795,
+          "support": 205.0
+        },
+        "accuracy": 0.9274809160305344,
+        "macro avg": {
+          "precision": 0.8941176470588236,
+          "recall": 0.8378242353852109,
+          "f1-score": 0.8629203247385391,
+          "support": 262.0
+        },
+        "weighted avg": {
+          "precision": 0.9262300339983321,
+          "recall": 0.9274809160305344,
+          "f1-score": 0.9260150397366945,
+          "support": 262.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          30,
+          0,
+          6
+        ],
+        [
+          0,
+          15,
+          6
+        ],
+        [
+          5,
+          2,
+          198
+        ]
+      ],
+      "roc_auc_ovr_weighted": 0.9832118615141546,
+      "roc_auc_ovr_macro": 0.9882035477772843,
+      "best_params": {
+        "model__n_estimators": 400,
+        "model__min_samples_split": 10,
+        "model__min_samples_leaf": 1,
+        "model__max_features": "log2",
+        "model__max_depth": 16
+      },
+      "best_cv_f1_macro": 0.9038223519087036
+    }
+  }
+}
