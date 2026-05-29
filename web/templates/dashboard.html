@@ -19,10 +19,11 @@
 
         <nav class="side-nav" aria-label="Dashboard navigation">
           <button class="nav-button active" data-slide-target="0"><i data-lucide="layout-dashboard"></i><span>Overview</span></button>
-          <button class="nav-button" data-slide-target="1"><i data-lucide="bar-chart-3"></i><span>Model</span></button>
-          <button class="nav-button" data-slide-target="2"><i data-lucide="image"></i><span>Visual</span></button>
-          <button class="nav-button" data-slide-target="3"><i data-lucide="sparkles"></i><span>Prediksi</span></button>
-          <button class="nav-button" data-slide-target="4"><i data-lucide="refresh-cw"></i><span>Training</span></button>
+          <button class="nav-button" data-slide-target="1"><i data-lucide="scan-search"></i><span>EDA</span></button>
+          <button class="nav-button" data-slide-target="2"><i data-lucide="bar-chart-3"></i><span>Model</span></button>
+          <button class="nav-button" data-slide-target="3"><i data-lucide="image"></i><span>Visual</span></button>
+          <button class="nav-button" data-slide-target="4"><i data-lucide="sparkles"></i><span>Prediksi</span></button>
+          <button class="nav-button" data-slide-target="5"><i data-lucide="refresh-cw"></i><span>Training</span></button>
         </nav>
 
         <form method="post" action="{{ url_for('logout') }}">
@@ -38,7 +39,7 @@
           </div>
           <div class="topbar-actions">
             <button class="icon-button" id="prevSlide" title="Slide sebelumnya"><i data-lucide="chevron-left"></i></button>
-            <div class="slide-counter"><span id="currentSlide">1</span><span>/5</span></div>
+            <div class="slide-counter"><span id="currentSlide">1</span><span>/{{ total_slides }}</span></div>
             <button class="icon-button" id="nextSlide" title="Slide berikutnya"><i data-lucide="chevron-right"></i></button>
           </div>
         </header>
@@ -57,17 +58,17 @@
               <div class="metric-card"><span>Raw Rows</span><strong>{{ dataset.raw_rows }}</strong></div>
               <div class="metric-card"><span>Clean Rows</span><strong>{{ dataset.clean_rows }}</strong></div>
               <div class="metric-card"><span>Dropped Rows</span><strong>{{ dataset.dropped_rows }}</strong></div>
-              <div class="metric-card"><span>Best Model</span><strong>{{ best_model.model|upper }}</strong></div>
+              <div class="metric-card metric-card-accent"><span>Best F1 Macro</span><strong>{{ "%.4f"|format(best_model.f1_macro) }}</strong><em>{{ best_model.model|upper }}</em></div>
             </div>
 
             <div class="dashboard-grid two-col">
               <section class="panel">
                 <h3>Distribusi Label</h3>
                 <div class="label-list">
-                  {% for label, count in dataset.target_distribution.items() %}
+                  {% for item in eda.label_distribution %}
                     <div class="label-row">
-                      <span>{{ label }}</span>
-                      <strong>{{ count }}</strong>
+                      <span>{{ item.label }} <small>{{ "%.2f"|format(item.percent) }}%</small></span>
+                      <strong>{{ item.count }}</strong>
                     </div>
                   {% endfor %}
                 </div>
@@ -82,9 +83,151 @@
           <article class="slide">
             <div class="section-heading">
               <div>
+                <p class="panel-kicker">Exploratory Data Analysis</p>
+                <h2>Tahapan Data, Perhitungan, dan Insight</h2>
+              </div>
+              <span class="status-pill">Calculated From Dataset</span>
+            </div>
+
+            <div class="process-timeline">
+              {% for step in process_steps %}
+                <section class="process-card">
+                  <span>{{ "%02d"|format(loop.index) }}</span>
+                  <h3>{{ step.title }}</h3>
+                  <strong>{{ step.value }}</strong>
+                  <p>{{ step.description }}</p>
+                </section>
+              {% endfor %}
+            </div>
+
+            <div class="dashboard-grid three-col">
+              <section class="panel stat-panel">
+                <h3>Statistik Total Cup Points</h3>
+                <div class="stat-grid">
+                  <div><span>Min</span><strong>{{ eda.score_stats.min }}</strong></div>
+                  <div><span>Q1</span><strong>{{ eda.score_stats.q1 }}</strong></div>
+                  <div><span>Median</span><strong>{{ eda.score_stats.median }}</strong></div>
+                  <div><span>Mean</span><strong>{{ eda.score_stats.mean }}</strong></div>
+                  <div><span>Q3</span><strong>{{ eda.score_stats.q3 }}</strong></div>
+                  <div><span>Max</span><strong>{{ eda.score_stats.max }}</strong></div>
+                </div>
+              </section>
+
+              <section class="panel">
+                <h3>Missing Value Teratas</h3>
+                <div class="compact-list">
+                  {% for item in eda.missing_top %}
+                    <div><span>{{ item.column }}</span><strong>{{ item.missing }}</strong></div>
+                  {% endfor %}
+                </div>
+              </section>
+
+              <section class="panel">
+                <h3>Asal Negara Teratas</h3>
+                <div class="compact-list">
+                  {% for item in eda.top_countries %}
+                    <div><span>{{ item.country }}</span><strong>{{ item.count }}</strong></div>
+                  {% endfor %}
+                </div>
+              </section>
+            </div>
+
+            <div class="dashboard-grid two-col eda-lower-grid">
+              <section class="panel">
+                <h3>Korelasi Fitur terhadap Total Cup Points</h3>
+                <div class="bar-list">
+                  {% for item in eda.target_correlations %}
+                    <div class="bar-item">
+                      <div><span>{{ item.feature }}</span><strong>{{ "%.4f"|format(item.correlation) }}</strong></div>
+                      <div class="bar-track"><span style="width: {{ item.abs_percent }}%"></span></div>
+                    </div>
+                  {% endfor %}
+                </div>
+              </section>
+
+              <section class="panel">
+                <h3>Rata-rata Fitur Sensorik</h3>
+                <div class="model-table-wrap compact-table-wrap">
+                  <table class="model-table compact-table">
+                    <thead>
+                      <tr>
+                        <th>Fitur</th>
+                        <th>Mean</th>
+                        <th>Min</th>
+                        <th>Max</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for row in eda.numeric_summary %}
+                        <tr>
+                          <td>{{ row.feature }}</td>
+                          <td>{{ "%.2f"|format(row["mean"]) }}</td>
+                          <td>{{ "%.2f"|format(row["min"]) }}</td>
+                          <td>{{ "%.2f"|format(row["max"]) }}</td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            </div>
+
+            <section class="panel class-profile-panel">
+              <h3>Profil Rata-rata Sensorik per Kelas Mutu</h3>
+              <div class="model-table-wrap compact-table-wrap">
+                <table class="model-table compact-table">
+                  <thead>
+                    <tr>
+                      <th>Kelas</th>
+                      <th>Aroma</th>
+                      <th>Flavor</th>
+                      <th>Aftertaste</th>
+                      <th>Acidity</th>
+                      <th>Body</th>
+                      <th>Balance</th>
+                      <th>Cupper Points</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {% for row in eda.class_profile %}
+                      <tr>
+                        <td>{{ row.quality_label }}</td>
+                        <td>{{ "%.2f"|format(row["Aroma"]) }}</td>
+                        <td>{{ "%.2f"|format(row["Flavor"]) }}</td>
+                        <td>{{ "%.2f"|format(row["Aftertaste"]) }}</td>
+                        <td>{{ "%.2f"|format(row["Acidity"]) }}</td>
+                        <td>{{ "%.2f"|format(row["Body"]) }}</td>
+                        <td>{{ "%.2f"|format(row["Balance"]) }}</td>
+                        <td>{{ "%.2f"|format(row["Cupper.Points"]) }}</td>
+                      </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          </article>
+
+          <article class="slide">
+            <div class="section-heading">
+              <div>
                 <p class="panel-kicker">Model Performance</p>
                 <h2>Perbandingan SVM dan Random Forest</h2>
               </div>
+            </div>
+
+            <div class="model-score-grid">
+              {% for model in model_details %}
+                <section class="model-score-card {% if model.key == best_model.model %}winner{% endif %}">
+                  <div>
+                    <span>{{ model.name }}</span>
+                    <h3>F1 Macro {{ "%.4f"|format(model.f1_macro) }}</h3>
+                  </div>
+                  <div class="score-meter" style="--score: {{ (model.f1_macro * 100)|round(2) }}%">
+                    <span></span>
+                  </div>
+                  <p>F1 Weighted {{ "%.4f"|format(model.f1_weighted) }} | CV F1 Macro {{ "%.4f"|format(model.best_cv_f1_macro) }}</p>
+                </section>
+              {% endfor %}
             </div>
 
             <div class="model-table-wrap">
@@ -112,6 +255,31 @@
                   {% endfor %}
                 </tbody>
               </table>
+            </div>
+
+            <div class="dashboard-grid two-col class-report-grid">
+              {% for model in model_details %}
+                <section class="panel">
+                  <h3>Per-Class F1 Score - {{ model.name }}</h3>
+                  <div class="compact-list f1-list">
+                    {% for row in model.classes %}
+                      <div>
+                        <span>{{ row.label }} <small>support {{ row.support }}</small></span>
+                        <strong>{{ "%.4f"|format(row.f1_score) }}</strong>
+                      </div>
+                    {% endfor %}
+                  </div>
+                </section>
+              {% endfor %}
+            </div>
+
+            <div class="dashboard-grid two-col parameter-grid">
+              {% for model in model_details %}
+                <section class="panel">
+                  <h3>Parameter Terbaik - {{ model.name }}</h3>
+                  <pre class="param-box">{{ model.best_params }}</pre>
+                </section>
+              {% endfor %}
             </div>
 
             <div class="dashboard-grid two-col">
