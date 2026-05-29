@@ -204,3 +204,4 @@ Random Forest diuji dengan:
 - class_weight: `balanced_subsample`
 
 Scoring utama untuk pemilihan model adalah `f1_macro` karena dataset tidak seimbang antar kelas.
+# skripsh1t
